@@ -1,0 +1,15 @@
+{
+  "provider": "REA / Ghidra 12.1.4",
+  "exe_sha256": "c9b1e33cbd14fa21ea876f50355ad7369a9fd74186e08e669210acf0cab7c503",
+  "hooks": [
+    {"feature": "inventory_binding", "entry": "0x4339d0", "signature": "558bec0fbf450c", "calls": ["0x46df53"], "evidence": "ev_d29b3bdabeb5a1645cf0554699143094ea8426c59331ef2cf358d248d7241986"},
+    {"feature": "camera_projection", "entry": "0x43ac10", "signature": "558bec81ecac000000", "calls": ["0x46d16b"], "evidence": "ev_36f55a284d4a2ced098059076b08175055927178a7c6e44e57f50a2cb493f75f"},
+    {"feature": "movement_vector", "entry": "0x4633e0", "signature": "558bec83ec0856", "calls": ["0x44efe1"], "evidence": "ev_a03b42e1d50bc63b44fd68d51013e3a91634fb2ebdcac97b89cb330d273d0bf1"},
+    {"feature": "movement_axis", "entry": "0x44fd00", "signature": "558bec83ec2c56", "calls": ["0x44f1e3", "0x44f1fb", "0x44f20d", "0x44f225"], "evidence": "ev_ad86af78cc09745eda509a3e9e1609021530de0a6b96a31b848e1a1941936795"},
+    {"feature": "render_markers", "entry": "0x43dcb0", "signature": "558bec83ec38", "calls": ["0x42fc2a"], "evidence": "ev_330d37b1368b333e31bc0cf2d8562105d1a56c7afde19619a67836910f3e6e67"}
+  ],
+  "inventory": "The native inventory panel (mode 10) calls the binding match for slot 3 before the inventory close operation. The adapter can suppress this one check, leaving Escape and the opening binding intact.",
+  "camera": "The game loop refreshes the scene at 0x46d16b after movement. The centering helper is 0x43a9e0. Actor stride is 0x1ab0, position is +0x20/+0x24, and the native walking branch checks +0x1670 == 1.",
+  "movement": "The movement driver 0x44ed80 calls a destination-clamped vector routine and retains its native collision check and four axis fallback calls.",
+  "markers": "Scene refresh stores category 9 object IDs 9000–9599 in the draw list at 0x6a55a8. Object stride is 0x490. Native object, visibility, and line-of-sight predicates constrain markers to resolved visible objects."
+}

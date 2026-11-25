@@ -1,0 +1,128 @@
+{
+  "status": "staged",
+  "installed": false,
+  "exe_sha256": "c9b1e33cbd14fa21ea876f50355ad7369a9fd74186e08e669210acf0cab7c503",
+  "verified_manifest_sha256": "5f274b40e4478ec0b47cbb9b62fa16cb0043394d63b66bfeed9a8e184f597df8",
+  "files": [
+    {
+      "path": "Avadon 3 Files/Graphics Core/G220.png",
+      "sha256": "3f19a964e8047a69b10116d0bc07e6be4ed7dbb56be2e633ab839b97460ba913",
+      "source": "Avadon 3 Files/Graphics Core/G220.png",
+      "original_sha256": "3521dd6949ba9b543f0c36174988b7b0024454dc7a5fa7150aeedf5b0b30d599"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G203.png",
+      "sha256": "39e3e441618a43bd8b528886e5f8eb5494df3b0a2392907f672fda92ffd4db01",
+      "source": "Avadon 3 Files/Graphics Core/G203.png",
+      "original_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G169.png",
+      "sha256": "dde0c12ed609d1940ce8a9ffd296e31ce0fa8a1c0574a1b8744029127d99fc23",
+      "source": "Avadon 3 Files/Graphics Core/G169.png",
+      "original_sha256": "855209263de0776dfe2069d5f0b909e5ec643a3fab29524f839e1f4e1dd943f9"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G158.png",
+      "sha256": "09944dd55299f9adcec01c49ddc40006864b37e9c7264448add9a21e2b5b3f59",
+      "source": "Avadon 3 Files/Graphics Core/G158.png",
+      "original_sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G159.png",
+      "sha256": "8d69f24784fdc1c9813ae1b07ffcd68b0ef1041e4ce17243f3996515c2f3033b",
+      "source": "Avadon 3 Files/Graphics Core/G159.png",
+      "original_sha256": "f6eb84fb2b0f5c676a40351eca9d0886eccffd646a009609e8874a4a039353aa"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G167.png",
+      "sha256": "ee34859e0e22977ead1f5bdcf89fac24b0587e14b42eb434c80f0f7534a0dbab",
+      "source": "Avadon 3 Files/Graphics Core/G167.png",
+      "original_sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G165.png",
+      "sha256": "0f5400cfdd6fa450f7214ae6151d406590696b16f9fff5a6279ef2056ee5c86b",
+      "source": "Avadon 3 Files/Graphics Core/G165.png",
+      "original_sha256": "aec9b9fa14909a2db521539f1dcd86719cefda1dd61a471cdd260290addd285b"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G197.png",
+      "sha256": "037bc9b22bd847687733f601a309d7914d8c05d35e7deee7991c6975fbb29eb4",
+      "source": "Avadon 3 Files/Graphics Core/G197.png",
+      "original_sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G501.png",
+      "sha256": "448e6133a88334b9eab53826e4f5cb6ce169caef03a0cec1d0c789228e72aed6",
+      "source": "Avadon 3 Files/Graphics Core/G501.png",
+      "original_sha256": "dbcda09d3dd8da70bf203ecb14eb25edd8510e1faae4d6b55e54333b2df0e7c8"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G128.png",
+      "sha256": "a7ce6f56f772fb7796ad47aebc9b9c42db4942b1bdcde07c967f3092e4f330eb",
+      "source": "Avadon 3 Files/Graphics Core/G128.png",
+      "original_sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G130.jpg",
+      "sha256": "2767b6740f971400be9a27276ac6054d1303ab2aa3a18289fbc5c4968ca43f6a",
+      "source": "Avadon 3 Files/Graphics Core/G130.jpg",
+      "original_sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G133.png",
+      "sha256": "e7c9c422a566dba68bb2749d5ff9911006446aeada88807ab5ddf9d7082c6f22",
+      "source": "Avadon 3 Files/Graphics Core/G133.png",
+      "original_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+      "sha256": "a0105b33a8dfd5246983ace13bacc4c7951a364c064992a79fc6ce728991a0d7",
+      "source": "Avadon 3 Files/Graphics Core/G129.jpg",
+      "original_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G500.png",
+      "sha256": "01925e71de46e7b1768e83541462e6a495aaf8a87bed81dc2e125804843e99e0",
+      "source": "Avadon 3 Files/Graphics Core/G500.png",
+      "original_sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G160.jpg",
+      "sha256": "4a85516feb91ab420b3272d705056677bf5809e91d2de4b1960fcf407045314a",
+      "source": "Avadon 3 Files/Graphics Core/G160.jpg",
+      "original_sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+      "sha256": "55ec8919e48e49be8c3f0101fd880e1934b34b2576c6c6b1ea3c3336ef5ac175",
+      "source": "Avadon 3 Files/Graphics Core/G176.jpg",
+      "original_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G161.jpg",
+      "sha256": "31c6505cf3411edfb8503033cc5da3940bf3e96b43430e38db200372fad7e822",
+      "source": "Avadon 3 Files/Graphics Core/G161.jpg",
+      "original_sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+      "sha256": "2c91b3d31545c167e8e6c322030a087569e0f93cf33dae8c9a2c62b4f8fde2ab",
+      "source": "Avadon 3 Files/Graphics Core/G177.jpg",
+      "original_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+      "sha256": "aa53b9c967f2ecd0c491beece5e5e18988ec50c89d2163ca10a2e1d51f5d02e7",
+      "source": "Avadon 3 Files/Graphics Core/G231.jpg",
+      "original_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01"
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G153.png",
+      "sha256": "8b1c3c32ecd604f063494c2d90c116fea89789a8880cb3de95a32ecb551abacb",
+      "source": "Avadon 3 Files/Graphics Core/G153.png",
+      "original_sha256": "e4101f7872ef8d91d70817bc2e573528fa789f85cbe065e4160534e9221b708d"
+    }
+  ]
+}

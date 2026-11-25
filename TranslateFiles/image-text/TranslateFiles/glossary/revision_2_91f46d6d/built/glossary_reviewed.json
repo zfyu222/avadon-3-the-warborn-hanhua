@@ -1,0 +1,836 @@
+{
+  "characters": [],
+  "terms": [
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "战裔",
+      "source": "THE WARBORN",
+      "term_kind": "proper_name",
+      "term_reason": "与 AVADON 并列构成游戏副标题，作为作品标题专名处理。",
+      "evidence_rows": [
+        41
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "其他",
+            "enforcement": "required",
+            "recommended_translation": "战裔",
+            "source": "THE WARBORN",
+            "term_kind": "proper_name",
+            "term_reason": "与 AVADON 并列构成游戏副标题，作为作品标题专名处理。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            41
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "腐化之地",
+      "source": "THE CORRUPTION",
+      "term_kind": "proper_name",
+      "term_reason": "地图上的区域名称，出现在标题式地图标签中。",
+      "evidence_rows": [
+        49,
+        65
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "腐化之地",
+            "source": "THE CORRUPTION",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的区域名称，出现在标题式地图标签中。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            49,
+            65
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "中部盟约的五国",
+      "source": "The Five Nations of the Midlands Pact",
+      "term_kind": "proper_name",
+      "term_reason": "地图标题指 Lynaeus 的中部盟约五国，短语描述该联盟成员国；与 Midlands Pact 的冻结译名“中部盟约”一致。",
+      "evidence_rows": [
+        59
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "组织",
+            "enforcement": "required",
+            "recommended_translation": "中陆盟约的五国",
+            "source": "The Five Nations of the Midlands Pact",
+            "term_kind": "proper_name",
+            "term_reason": "地图标题中指明 Midlands Pact 所属的五个国家这一特定政治实体。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            59
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "威尔德里姆",
+      "source": "The Wyldrylm",
+      "term_kind": "proper_name",
+      "term_reason": "地图地域专名 The Wyldrylm；沿用已批准图片译名“威尔德里姆”，与系列同名译法一致。",
+      "evidence_rows": [
+        63
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "怀尔德林",
+            "source": "The Wyldrylm",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的独立地域标签专名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            63
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "叛军领地",
+      "source": "Rebel Lands",
+      "term_kind": "proper_name",
+      "term_reason": "地图地域标签 Rebel Lands，指叛军控制的领地；沿用已批准图片译名“叛军领地”。",
+      "evidence_rows": [
+        64
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "叛乱之地",
+            "source": "Rebel Lands",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的区域标签，指特定的叛军控制地区。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            64
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "塔翁帝国",
+      "source": "The Tawon Empire",
+      "term_kind": "proper_name",
+      "term_reason": "地图上的特定帝国名称。",
+      "evidence_rows": [
+        68
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "组织",
+            "enforcement": "required",
+            "recommended_translation": "塔翁帝国",
+            "source": "The Tawon Empire",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的特定帝国名称。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            68
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "applicability": {
+        "case_sensitive": false,
+        "mode": "whole_record",
+        "reason": "该含义来自独立界面标签“Scarabs”，只对完整标签适用。"
+      },
+      "category_path": "物品",
+      "enforcement": "reference",
+      "recommended_translation": "圣甲虫",
+      "source": "Scarabs",
+      "term_kind": "game_term",
+      "term_reason": "Scarabs 是可装备的特殊魔法物品，可提升属性并赋予能力；界面 E - Scarabs 的已批准图片译名为“E - 圣甲虫”，不含货币含义。",
+      "evidence_rows": [
+        30
+      ],
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "applicability": {
+              "case_sensitive": false,
+              "mode": "whole_record",
+              "reason": "该含义来自独立界面标签“Scarabs”，只对完整标签适用。"
+            },
+            "category_path": "物品",
+            "enforcement": "reference",
+            "recommended_translation": "圣甲虫币",
+            "source": "Scarabs",
+            "term_kind": "game_term",
+            "term_reason": "装备/物品界面将其单列为可携带项目；可能是专用物品或货币名称，暂按游戏专有物品名处理。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            30
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ],
+      "provisional_selection": "most_extraction_proposals_then_first_seen"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "快捷使用物品",
+      "source": "Quick Use Items",
+      "term_kind": "game_term",
+      "term_reason": "原文指主界面中可快速使用或装备的物品槽。",
+      "evidence_rows": [
+        31,
+        78
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "种族",
+      "enforcement": "required",
+      "recommended_translation": "克瓦",
+      "source": "Kva",
+      "term_kind": "proper_name",
+      "term_reason": "专名，指克瓦族群及其族属修饰语，也用于 Kva Lands 等地名；统一音译。",
+      "evidence_rows": [
+        73
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "阿瓦登",
+      "source": "Avadon",
+      "term_kind": "proper_name",
+      "term_reason": "既是黑色要塞及玩家效力的政权/组织，也用作游戏标题；统一音译为阿瓦登。",
+      "evidence_rows": [
+        40,
+        62
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "阿瓦登",
+            "source": "AVADON",
+            "term_kind": "proper_name",
+            "term_reason": "系列名及地图中的领地名称；项目背景明确沿用系列译名“阿瓦登”。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            40
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "盟约",
+      "source": "Pact",
+      "term_kind": "proper_name",
+      "term_reason": "多个国家组成的同盟，阿瓦登维护其稳定",
+      "evidence_rows": [
+        59
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "克瓦",
+      "source": "The Kva",
+      "term_kind": "proper_name",
+      "term_reason": "带定冠词的专名，指克瓦地区/国族；原文亦以 people of The Kva、warrior of The Kva 指克瓦人，中文按语境可作“克瓦”或“克瓦人”。",
+      "evidence_rows": [
+        73
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "种族",
+            "enforcement": "required",
+            "recommended_translation": "克瓦族",
+            "source": "The Kva",
+            "term_kind": "proper_name",
+            "term_reason": "地图标签中的特定群体名称，保留为专名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            73
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "凯梅里亚",
+      "source": "Khemeria",
+      "term_kind": "proper_name",
+      "term_reason": "远境之一的国名兼地区名，原与 Wyldrylm 同源后分离；文中亦指其国土和族民，并常作为 Pact 的敌对势力。",
+      "evidence_rows": [
+        61
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "凯梅里亚",
+            "source": "Khemeria",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的独立国家或地区标签专名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            61
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "威尔德里姆",
+      "source": "Wyldrylm",
+      "term_kind": "proper_name",
+      "term_reason": "中部盟约（Midlands Pact）五国之一，位于西部；1048 称其面积最大、按人类计人口最少，3798/8466 亦用于指其部族与人民。",
+      "evidence_rows": [
+        63
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "霍尔克兰达",
+      "source": "Holklanda",
+      "term_kind": "proper_name",
+      "term_reason": "Pact 五国之一，与 Kellemderiel 争夺 Beraza Woods；亦指角色故乡/国籍，派生 Holklandan 表示该国之人或属性。",
+      "evidence_rows": [
+        70
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "霍尔克兰达",
+            "source": "Holklanda",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的独立地名标签专名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            70
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "林奈乌斯",
+      "source": "Lynaeus",
+      "term_kind": "proper_name",
+      "term_reason": "3521/3600/3611 等作为大陆/地区名。",
+      "evidence_rows": [
+        60
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "利奈厄斯",
+            "source": "Lynaeus",
+            "term_kind": "proper_name",
+            "term_reason": "短语“In the Lands of Lynaeus”将其作为特定地域名称。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            60
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "贝拉扎森林",
+      "source": "Beraza Woods",
+      "term_kind": "proper_name",
+      "term_reason": "Woods west of the castle containing bandits, basilisks, and hidden lairs.",
+      "evidence_rows": [
+        69
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "贝拉扎森林",
+            "source": "Beraza Woods",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的森林地名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            69
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "达拉姆",
+      "source": "Dharam",
+      "term_kind": "proper_name",
+      "term_reason": "Dharam 为 Midlands Pact 东海岸的国家/地名；1036 称其为 Pact 最东成员，995/2509 等用作来源地。",
+      "evidence_rows": [
+        71
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "达拉姆",
+            "source": "Dharam",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的独立地名标签专名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            71
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "塔翁帝国",
+      "source": "Tawon Empire",
+      "term_kind": "proper_name",
+      "term_reason": "Tawon Empire 是远境中发生骚乱的帝国政权，与地图标签 The Tawon Empire 指同一政治实体。",
+      "evidence_rows": [
+        68
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "斯沃加尔德",
+      "source": "Svorgald",
+      "term_kind": "proper_name",
+      "term_reason": "袭扰远境的国家/地区",
+      "evidence_rows": [
+        75
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "斯沃加尔德",
+            "source": "Svorgald",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的独立地名标签专名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            75
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "泰坦群峰",
+      "source": "Titan Peaks",
+      "term_kind": "proper_name",
+      "term_reason": "1013 为 Farlands 中蛮荒山地。",
+      "evidence_rows": [
+        66
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "凯勒姆德里尔",
+      "source": "Kellemderiel",
+      "term_kind": "proper_name",
+      "term_reason": "原文为娜塔莉的祖国，且与贝拉萨森林归属相关",
+      "evidence_rows": [
+        72
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "凯勒姆德里尔",
+            "source": "Kellemderiel",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的独立地名标签专名。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            72
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "贱民之地",
+      "source": "Wretch Lands",
+      "term_kind": "proper_name",
+      "term_reason": "原文中划给 wretches 的区域地名。",
+      "evidence_rows": [
+        50,
+        74
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "恶徒之地",
+            "source": "WRETCH LANDS",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的区域名称，出现在标题式地图标签中。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            50
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "塔翁",
+      "source": "Tawon",
+      "term_kind": "proper_name",
+      "term_reason": "与 Kellem 并列，被 Khemeria 视为 weaklings 的邻邦/民族",
+      "evidence_rows": [
+        68
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "种族",
+      "enforcement": "required",
+      "recommended_translation": "卑劣者",
+      "source": "wretch",
+      "term_kind": "game_term",
+      "term_reason": "游戏中反复出现的人形敌对种族称谓。",
+      "evidence_rows": [
+        50,
+        74
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "Spiderweb Software",
+      "source": "Spiderweb Software",
+      "term_kind": "proper_name",
+      "term_reason": "开发商名称，原文保留英文品牌名。",
+      "evidence_rows": [
+        81
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "组织",
+      "enforcement": "required",
+      "recommended_translation": "中部盟约",
+      "source": "Midlands Pact",
+      "term_kind": "proper_name",
+      "term_reason": "979 称 Midlands Pact 通称 The Pact，为 Lynaeus 中部五国联盟。",
+      "evidence_rows": [
+        59
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "reference",
+      "recommended_translation": "勋章",
+      "source": "Medals",
+      "term_kind": "game_term",
+      "term_reason": "原文说明游戏中有十五枚可获得的奖章。",
+      "evidence_rows": [
+        46
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "物品",
+      "enforcement": "required",
+      "recommended_translation": "杂物袋",
+      "source": "Junk Bag",
+      "term_kind": "game_term",
+      "term_reason": "原文为集中放置待售物品的专用容器，出现在物品栏菜单。",
+      "evidence_rows": [
+        35
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "活力",
+      "source": "Vitality",
+      "term_kind": "game_term",
+      "term_reason": "1622 'low on Vitality'，角色资源属性。",
+      "evidence_rows": [
+        13
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "泰坦群峰",
+      "source": "The Titan Peaks",
+      "term_kind": "proper_name",
+      "term_reason": "原文地名",
+      "evidence_rows": [
+        66
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4",
+      "extraction_candidates": [
+        {
+          "table": "terms",
+          "row": {
+            "category_path": "地名",
+            "enforcement": "required",
+            "recommended_translation": "泰坦峰",
+            "source": "The Titan Peaks",
+            "term_kind": "proper_name",
+            "term_reason": "地图上的山脉区域名称。"
+          },
+          "extraction_count": 1,
+          "evidence_rows": [
+            66
+          ],
+          "extraction_tasks": [
+            "extract-r1-00001-de8812b2"
+          ]
+        }
+      ]
+    },
+    {
+      "category_path": "种族",
+      "enforcement": "required",
+      "recommended_translation": "泰坦",
+      "source": "titan",
+      "term_kind": "game_term",
+      "term_reason": "原文 'a titan' 与 'the titans'/'Titans' 指同一有巢穴、体型巨大的敌对生物族群。",
+      "evidence_rows": [
+        66
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "快捷使用",
+      "source": "Quick Use",
+      "term_kind": "game_term",
+      "term_reason": "主界面四个快捷使用槽位/按钮的机制名",
+      "evidence_rows": [
+        31,
+        78
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "applicability": {
+        "case_sensitive": false,
+        "mode": "text",
+        "reason": "两处原文均以 automap 指游戏 UI 的自动地图功能，不是普通 map。"
+      },
+      "category_path": "其他",
+      "enforcement": "required",
+      "recommended_translation": "自动地图",
+      "source": "automap",
+      "term_kind": "game_term",
+      "term_reason": "两处 UI 提示均指自动记录并显示角色位置的自动地图功能。",
+      "evidence_rows": [
+        55
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "applicability": {
+        "case_sensitive": true,
+        "mode": "whole_record",
+        "reason": "原文整条仅为 Health 的 UI 标签"
+      },
+      "category_path": "其他",
+      "enforcement": "reference",
+      "recommended_translation": "生命值",
+      "source": "Health",
+      "term_kind": "game_term",
+      "term_reason": "单条 UI 标签，表示角色生命值",
+      "evidence_rows": [
+        9
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    },
+    {
+      "category_path": "地名",
+      "enforcement": "required",
+      "recommended_translation": "贝拉扎",
+      "source": "Beraza",
+      "term_kind": "proper_name",
+      "term_reason": "Beraza Bandit 显示名中 Beraza 为来源地名。",
+      "evidence_rows": [
+        69
+      ],
+      "provisional_selection": "inherited_frozen_avadon_2_revision_4"
+    }
+  ],
+  "non_translate": [],
+  "applicability_policy": 1,
+  "terminology_policy": 1,
+  "nontranslate_scope_policy": 1,
+  "corpus_evidence_policy": 1,
+  "feedback_risk_policy": 1,
+  "stats": {
+    "character_count": 0,
+    "term_count": 36,
+    "non_translate_count": 0,
+    "total_hits": 36
+  }
+}

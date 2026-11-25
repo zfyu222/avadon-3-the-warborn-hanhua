@@ -1,0 +1,4639 @@
+{
+  "schema": 2,
+  "csv_sha256": "bec14b25ac73f3ea6ab1192cadf21dc01d81057c4867b61bc5a813e2d7df6872",
+  "records": 92,
+  "regions": [
+    {
+      "csv_row": 1,
+      "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+      "region_id": "confirmed-8c3acc61a26452a0-0",
+      "box": [
+        815.593,
+        3.968,
+        857.215,
+        22.816
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G128.png",
+          "file_sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+          "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+          "width": 991,
+          "height": 992,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G128.png",
+            "sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+            "size": [
+              991,
+              992
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Map, roster and both alternative loading labels are visible.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\5.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 2,
+      "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+      "region_id": "confirmed-8c3acc61a26452a0-1",
+      "box": [
+        774.962,
+        501.952,
+        848.296,
+        519.808
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G128.png",
+          "file_sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+          "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+          "width": 991,
+          "height": 992,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G128.png",
+            "sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+            "size": [
+              991,
+              992
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Map, roster and both alternative loading labels are visible.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\5.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 3,
+      "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+      "region_id": "confirmed-8c3acc61a26452a0-2",
+      "box": [
+        123.875,
+        596.192,
+        213.065,
+        613.056
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G128.png",
+          "file_sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+          "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+          "width": 991,
+          "height": 992,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G128.png",
+            "sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+            "size": [
+              991,
+              992
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Map, roster and both alternative loading labels are visible.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\5.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 3,
+      "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+      "region_id": "confirmed-8c3acc61a26452a0-3",
+      "box": [
+        122.884,
+        631.904,
+        213.065,
+        649.76
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G128.png",
+          "file_sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+          "image_id": "8c3acc61a26452a09eb879276af4367eb13c1257fdb96e84f95122764e6733ff",
+          "width": 991,
+          "height": 992,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G128.png",
+            "sha256": "c0deab8b4bae5a653888b954edefcbb0ae796776fa52d136ef4f241598cdde7a",
+            "size": [
+              991,
+              992
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Map, roster and both alternative loading labels are visible.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\5.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 4,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-0",
+      "box": [
+        20.928,
+        8.891,
+        63.438,
+        28.765
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 5,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-1",
+      "box": [
+        85.02,
+        8.891,
+        166.77,
+        28.765
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 6,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-2",
+      "box": [
+        190.968,
+        8.891,
+        271.41,
+        28.765
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 7,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-3",
+      "box": [
+        435.564,
+        19.874,
+        512.736,
+        37.656
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 8,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-4",
+      "box": [
+        50.358,
+        82.111,
+        126.222,
+        98.324
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 9,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-5",
+      "box": [
+        200.124,
+        80.542,
+        251.79,
+        98.324
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 10,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-6",
+      "box": [
+        434.256,
+        95.709,
+        517.314,
+        115.06
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 11,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-7",
+      "box": [
+        36.624,
+        110.876,
+        105.948,
+        130.227
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 12,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-8",
+      "box": [
+        30.084,
+        134.934,
+        107.91,
+        153.239
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 13,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-9",
+      "box": [
+        198.816,
+        150.101,
+        255.06,
+        168.406
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 14,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-10",
+      "box": [
+        15.042,
+        160.561,
+        103.332,
+        180.435
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 15,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-11",
+      "box": [
+        19.62,
+        185.142,
+        103.332,
+        202.924
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 16,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-12",
+      "box": [
+        104.64,
+        221.229,
+        190.968,
+        241.103
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 17,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-13",
+      "box": [
+        434.256,
+        231.689,
+        523.2,
+        254.701
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 18,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-14",
+      "box": [
+        33.354,
+        254.701,
+        89.598,
+        273.006
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 19,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-15",
+      "box": [
+        165.462,
+        254.701,
+        219.744,
+        273.006
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 20,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-16",
+      "box": [
+        36.624,
+        277.19,
+        89.598,
+        297.064
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 21,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-17",
+      "box": [
+        177.234,
+        277.19,
+        221.706,
+        297.064
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 22,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-18",
+      "box": [
+        50.358,
+        301.771,
+        88.29,
+        322.691
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 23,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-19",
+      "box": [
+        165.462,
+        301.771,
+        221.706,
+        321.122
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 24,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-20",
+      "box": [
+        43.818,
+        328.967,
+        88.29,
+        348.841
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 25,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-21",
+      "box": [
+        165.462,
+        328.967,
+        221.706,
+        347.272
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 26,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-22",
+      "box": [
+        95.484,
+        366.623,
+        204.702,
+        384.928
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 27,
+      "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+      "region_id": "confirmed-38c91ce0388fe3b2-23",
+      "box": [
+        423.138,
+        369.761,
+        532.356,
+        391.204
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G129.jpg",
+          "file_sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+          "image_id": "38c91ce0388fe3b24bbb3345815849daba9c2efb437ec720c52abf1d7932824f",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G129.jpg",
+            "sha256": "53fe9e4a8c204fa0f250bddab45eb43a3e6765f7ac64342d89d0f88b44c7261b",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Legible field names on the statistics and skills panel.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\2.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 28,
+      "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+      "region_id": "confirmed-f83db7ed83586dfc-0",
+      "box": [
+        164.154,
+        6.276,
+        238.056,
+        24.058
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G130.jpg",
+          "file_sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+          "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G130.jpg",
+            "sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four labels identify the inventory sections.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\9.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 29,
+      "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+      "region_id": "confirmed-f83db7ed83586dfc-1",
+      "box": [
+        505.542,
+        10.46,
+        561.132,
+        28.765
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G130.jpg",
+          "file_sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+          "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G130.jpg",
+            "sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four labels identify the inventory sections.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\9.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 30,
+      "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+      "region_id": "confirmed-f83db7ed83586dfc-2",
+      "box": [
+        173.31,
+        291.311,
+        227.592,
+        307.524
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G130.jpg",
+          "file_sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+          "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G130.jpg",
+            "sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four labels identify the inventory sections.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\9.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 31,
+      "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+      "region_id": "confirmed-f83db7ed83586dfc-3",
+      "box": [
+        142.572,
+        383.359,
+        260.946,
+        403.233
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G130.jpg",
+          "file_sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+          "image_id": "f83db7ed83586dfc99ab989660e5f3932c4f33669ee1c89dd6db685fc51e3307",
+          "width": 654,
+          "height": 523,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G130.jpg",
+            "sha256": "a859dc3807bf753efb48184b4a4c1421b61fb99f2bb2ba32c8c16d8d2394cf42",
+            "size": [
+              654,
+              523
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four labels identify the inventory sections.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\9.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 32,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-0",
+      "box": [
+        2.08,
+        55.3,
+        35.88,
+        70.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 32,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-1",
+      "box": [
+        2.08,
+        72.8,
+        35.88,
+        86.8
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 33,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-2",
+      "box": [
+        56.16,
+        91.7,
+        105.04,
+        107.1
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 34,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-3",
+      "box": [
+        209.04,
+        252.0,
+        283.92,
+        270.2
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 35,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-4",
+      "box": [
+        313.04,
+        252.0,
+        375.96,
+        270.2
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 34,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-5",
+      "box": [
+        209.04,
+        282.8,
+        283.92,
+        301.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 35,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-6",
+      "box": [
+        313.04,
+        282.1,
+        375.96,
+        301.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 36,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-7",
+      "box": [
+        3.12,
+        305.9,
+        58.76,
+        322.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 35,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-8",
+      "box": [
+        210.08,
+        312.2,
+        273.0,
+        331.1
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 37,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-9",
+      "box": [
+        322.92,
+        312.9,
+        354.12,
+        328.3
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 38,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-10",
+      "box": [
+        3.12,
+        336.7,
+        45.24,
+        354.2
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 39,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-11",
+      "box": [
+        210.08,
+        343.7,
+        276.12,
+        361.9
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 33,
+      "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+      "region_id": "confirmed-642c838210d14924-12",
+      "box": [
+        305.76,
+        343.7,
+        370.24,
+        361.9
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G133.png",
+          "file_sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+          "image_id": "642c838210d149244c6c7ac7569b375456a62ef84883efd183470d3118e5660b",
+          "width": 520,
+          "height": 700,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G133.png",
+            "sha256": "c9f75a073d00ff6f269d111a65e43b98c6ee73907eab19c1c5619c29fe956933",
+            "size": [
+              520,
+              700
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The inventory buttons contain these labels. The sheet ID and symbols are graphic references.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\3.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 40,
+      "image_id": "73f8f5ec17ca546d545885a6fe726bce927e421fb1b6f87cde1daec72f28124b",
+      "region_id": "confirmed-73f8f5ec17ca546d-0",
+      "box": [
+        14.95,
+        4.81,
+        529.1,
+        115.07
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G153.png",
+          "file_sha256": "e4101f7872ef8d91d70817bc2e573528fa789f85cbe065e4160534e9221b708d",
+          "image_id": "73f8f5ec17ca546d545885a6fe726bce927e421fb1b6f87cde1daec72f28124b",
+          "width": 650,
+          "height": 185,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G153.png",
+            "sha256": "e4101f7872ef8d91d70817bc2e573528fa789f85cbe065e4160534e9221b708d",
+            "size": [
+              650,
+              185
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The stylized title has AVADON and THE WARBORN beside the large numeral 3.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\1.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 41,
+      "image_id": "73f8f5ec17ca546d545885a6fe726bce927e421fb1b6f87cde1daec72f28124b",
+      "region_id": "confirmed-73f8f5ec17ca546d-1",
+      "box": [
+        21.45,
+        115.625,
+        512.85,
+        166.87
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G153.png",
+          "file_sha256": "e4101f7872ef8d91d70817bc2e573528fa789f85cbe065e4160534e9221b708d",
+          "image_id": "73f8f5ec17ca546d545885a6fe726bce927e421fb1b6f87cde1daec72f28124b",
+          "width": 650,
+          "height": 185,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G153.png",
+            "sha256": "e4101f7872ef8d91d70817bc2e573528fa789f85cbe065e4160534e9221b708d",
+            "size": [
+              650,
+              185
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The stylized title has AVADON and THE WARBORN beside the large numeral 3.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\1.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 42,
+      "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+      "region_id": "confirmed-77b5a1f2219fe239-0",
+      "box": [
+        11.97,
+        10.92,
+        303.03,
+        45.864
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G158.png",
+          "file_sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+          "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+          "width": 315,
+          "height": 312,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G158.png",
+            "sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+            "size": [
+              315,
+              312
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Six legible labels appear on the title menu.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\2.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 43,
+      "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+      "region_id": "confirmed-77b5a1f2219fe239-1",
+      "box": [
+        57.96,
+        58.032,
+        255.15,
+        92.976
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G158.png",
+          "file_sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+          "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+          "width": 315,
+          "height": 312,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G158.png",
+            "sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+            "size": [
+              315,
+              312
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Six legible labels appear on the title menu.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\2.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 44,
+      "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+      "region_id": "confirmed-77b5a1f2219fe239-2",
+      "box": [
+        47.88,
+        103.896,
+        263.97,
+        140.088
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G158.png",
+          "file_sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+          "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+          "width": 315,
+          "height": 312,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G158.png",
+            "sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+            "size": [
+              315,
+              312
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Six legible labels appear on the title menu.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\2.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 45,
+      "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+      "region_id": "confirmed-77b5a1f2219fe239-3",
+      "box": [
+        80.955,
+        151.008,
+        232.155,
+        188.136
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G158.png",
+          "file_sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+          "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+          "width": 315,
+          "height": 312,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G158.png",
+            "sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+            "size": [
+              315,
+              312
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Six legible labels appear on the title menu.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\2.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 46,
+      "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+      "region_id": "confirmed-77b5a1f2219fe239-4",
+      "box": [
+        92.925,
+        198.12,
+        219.87,
+        233.064
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G158.png",
+          "file_sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+          "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+          "width": 315,
+          "height": 312,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G158.png",
+            "sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+            "size": [
+              315,
+              312
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Six legible labels appear on the title menu.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\2.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 47,
+      "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+      "region_id": "confirmed-77b5a1f2219fe239-5",
+      "box": [
+        113.085,
+        244.92,
+        195.93,
+        287.976
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G158.png",
+          "file_sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+          "image_id": "77b5a1f2219fe2398461a5fcbb3c7511b0e92a42c16c7c2fe54a6f4d3521993a",
+          "width": 315,
+          "height": 312,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G158.png",
+            "sha256": "3d12965f6e64ebf6e0faa7154fd388d82ecb32210fc6ce07be238d1a0ad0fca5",
+            "size": [
+              315,
+              312
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Six legible labels appear on the title menu.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\2.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 48,
+      "image_id": "e3196b9a398481fe5e85ab67913b71cbd8953c080c099dad1ee90cd22b26d76f",
+      "region_id": "confirmed-e3196b9a398481fe-0",
+      "box": [
+        9.0,
+        21.971,
+        111.0,
+        84.963
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G159.png",
+          "file_sha256": "f6eb84fb2b0f5c676a40351eca9d0886eccffd646a009609e8874a4a039353aa",
+          "image_id": "e3196b9a398481fe5e85ab67913b71cbd8953c080c099dad1ee90cd22b26d76f",
+          "width": 300,
+          "height": 127,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G159.png",
+            "sha256": "f6eb84fb2b0f5c676a40351eca9d0886eccffd646a009609e8874a4a039353aa",
+            "size": [
+              300,
+              127
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The callout and the inventory-section heading are clearly visible.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\7.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 29,
+      "image_id": "e3196b9a398481fe5e85ab67913b71cbd8953c080c099dad1ee90cd22b26d76f",
+      "region_id": "confirmed-e3196b9a398481fe-1",
+      "box": [
+        197.1,
+        3.048,
+        249.9,
+        20.955
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G159.png",
+          "file_sha256": "f6eb84fb2b0f5c676a40351eca9d0886eccffd646a009609e8874a4a039353aa",
+          "image_id": "e3196b9a398481fe5e85ab67913b71cbd8953c080c099dad1ee90cd22b26d76f",
+          "width": 300,
+          "height": 127,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G159.png",
+            "sha256": "f6eb84fb2b0f5c676a40351eca9d0886eccffd646a009609e8874a4a039353aa",
+            "size": [
+              300,
+              127
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The callout and the inventory-section heading are clearly visible.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\7.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 49,
+      "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+      "region_id": "confirmed-0dfd68233a88d0d1-0",
+      "box": [
+        263.734,
+        19.941,
+        324.044,
+        43.01
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G160.jpg",
+          "file_sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+          "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G160.jpg",
+            "sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The map insets have legible place names and the grave has an epitaph. Badge numbers and question marks are intact graphic symbols.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\1.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 40,
+      "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+      "region_id": "confirmed-0dfd68233a88d0d1-1",
+      "box": [
+        1.956,
+        71.162,
+        59.332,
+        89.148
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G160.jpg",
+          "file_sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+          "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G160.jpg",
+            "sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The map insets have legible place names and the grave has an epitaph. Badge numbers and question marks are intact graphic symbols.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\1.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 50,
+      "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+      "region_id": "confirmed-0dfd68233a88d0d1-2",
+      "box": [
+        132.356,
+        79.373,
+        195.6,
+        116.127
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G160.jpg",
+          "file_sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+          "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G160.jpg",
+            "sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The map insets have legible place names and the grave has an epitaph. Badge numbers and question marks are intact graphic symbols.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\1.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 51,
+      "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+      "region_id": "confirmed-0dfd68233a88d0d1-3",
+      "box": [
+        216.79,
+        204.493,
+        242.87,
+        227.562
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G160.jpg",
+          "file_sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+          "image_id": "0dfd68233a88d0d1e3ce7e4590db60c191a6a3c1f3bb4bf6e4d74b2e467599b7",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G160.jpg",
+            "sha256": "f529c4fa8d425a6261d467feec54824c433cf41fec973f8a421b7b677ab29e20",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The map insets have legible place names and the grave has an epitaph. Badge numbers and question marks are intact graphic symbols.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\1.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 49,
+      "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+      "region_id": "confirmed-719145b1706ca245-0",
+      "box": [
+        263.734,
+        19.941,
+        324.044,
+        43.01
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G161.jpg",
+          "file_sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+          "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G161.jpg",
+            "sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The monochrome medal sheet repeats the small map place names and gravestone epitaph.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\1.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 40,
+      "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+      "region_id": "confirmed-719145b1706ca245-1",
+      "box": [
+        1.956,
+        71.162,
+        59.332,
+        89.148
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G161.jpg",
+          "file_sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+          "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G161.jpg",
+            "sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The monochrome medal sheet repeats the small map place names and gravestone epitaph.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\1.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 50,
+      "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+      "region_id": "confirmed-719145b1706ca245-2",
+      "box": [
+        132.356,
+        79.373,
+        195.6,
+        116.127
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G161.jpg",
+          "file_sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+          "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G161.jpg",
+            "sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The monochrome medal sheet repeats the small map place names and gravestone epitaph.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\1.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 51,
+      "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+      "region_id": "confirmed-719145b1706ca245-3",
+      "box": [
+        216.79,
+        204.493,
+        242.87,
+        227.562
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G161.jpg",
+          "file_sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+          "image_id": "719145b1706ca245d7cb881009a9955e8858d7a1d5804d8ace0fbbc8b65061ed",
+          "width": 326,
+          "height": 391,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G161.jpg",
+            "sha256": "33d6c383094081be642678029ae2ca2434a5d1ef2721ad8022831342966db22b",
+            "size": [
+              326,
+              391
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The monochrome medal sheet repeats the small map place names and gravestone epitaph.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\1.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 40,
+      "image_id": "9503a3f08f53c795394e941b5b24e248bb54895e8107b5d14f126e94793c7803",
+      "region_id": "confirmed-9503a3f08f53c795-0",
+      "box": [
+        2.763,
+        2.848,
+        249.898,
+        55.536
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G165.png",
+          "file_sha256": "aec9b9fa14909a2db521539f1dcd86719cefda1dd61a471cdd260290addd285b",
+          "image_id": "9503a3f08f53c795394e941b5b24e248bb54895e8107b5d14f126e94793c7803",
+          "width": 307,
+          "height": 89,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G165.png",
+            "sha256": "aec9b9fa14909a2db521539f1dcd86719cefda1dd61a471cdd260290addd285b",
+            "size": [
+              307,
+              89
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The smaller title uses the same words and numeral in a single lockup.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\3.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 41,
+      "image_id": "9503a3f08f53c795394e941b5b24e248bb54895e8107b5d14f126e94793c7803",
+      "region_id": "confirmed-9503a3f08f53c795-1",
+      "box": [
+        4.605,
+        55.091,
+        245.907,
+        82.503
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G165.png",
+          "file_sha256": "aec9b9fa14909a2db521539f1dcd86719cefda1dd61a471cdd260290addd285b",
+          "image_id": "9503a3f08f53c795394e941b5b24e248bb54895e8107b5d14f126e94793c7803",
+          "width": 307,
+          "height": 89,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G165.png",
+            "sha256": "aec9b9fa14909a2db521539f1dcd86719cefda1dd61a471cdd260290addd285b",
+            "size": [
+              307,
+              89
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The smaller title uses the same words and numeral in a single lockup.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\3.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 52,
+      "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+      "region_id": "confirmed-8240ebf94a15e581-0",
+      "box": [
+        218.0,
+        31.0,
+        381.2,
+        50.065
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G167.png",
+          "file_sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+          "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+          "width": 400,
+          "height": 155,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G167.png",
+            "sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+            "size": [
+              400,
+              155
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The in-game screen diagram uses four letters to reference the four labels.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\39.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 53,
+      "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+      "region_id": "confirmed-8240ebf94a15e581-1",
+      "box": [
+        218.0,
+        53.01,
+        318.0,
+        72.075
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G167.png",
+          "file_sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+          "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+          "width": 400,
+          "height": 155,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G167.png",
+            "sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+            "size": [
+              400,
+              155
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The in-game screen diagram uses four letters to reference the four labels.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\39.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 54,
+      "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+      "region_id": "confirmed-8240ebf94a15e581-2",
+      "box": [
+        218.0,
+        75.02,
+        358.0,
+        95.015
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G167.png",
+          "file_sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+          "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+          "width": 400,
+          "height": 155,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G167.png",
+            "sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+            "size": [
+              400,
+              155
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The in-game screen diagram uses four letters to reference the four labels.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\39.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 55,
+      "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+      "region_id": "confirmed-8240ebf94a15e581-3",
+      "box": [
+        218.0,
+        97.96,
+        333.2,
+        119.04
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G167.png",
+          "file_sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+          "image_id": "8240ebf94a15e58134d960a012b66fade02c13f012a27123e34c2abb83c79074",
+          "width": 400,
+          "height": 155,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G167.png",
+            "sha256": "a3303741531cd9fb601e5153be55b2d12e757788cc71690e7fb4ee78c84998eb",
+            "size": [
+              400,
+              155
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The in-game screen diagram uses four letters to reference the four labels.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\66a7a2f8380baaec13a649516c6d46424954385d33392ae41e74f2e6453506b3\\39.png",
+        "package_hash": "12d0fa8accce4ce7918632ff55710a32111aa5e6cdaaee2316c495f838c176a9"
+      }
+    },
+    {
+      "csv_row": 56,
+      "image_id": "fc273b5c9d6a82bdf9f91f45c3106fbdd28041a1c813e88f3b1bf9987b2ccd8a",
+      "region_id": "confirmed-fc273b5c9d6a82bd-0",
+      "box": [
+        150.164,
+        0.0,
+        322.028,
+        24.045
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G169.png",
+          "file_sha256": "855209263de0776dfe2069d5f0b909e5ec643a3fab29524f839e1f4e1dd943f9",
+          "image_id": "fc273b5c9d6a82bdf9f91f45c3106fbdd28041a1c813e88f3b1bf9987b2ccd8a",
+          "width": 434,
+          "height": 229,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G169.png",
+            "sha256": "855209263de0776dfe2069d5f0b909e5ec643a3fab29524f839e1f4e1dd943f9",
+            "size": [
+              434,
+              229
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The heading and the two attack instructions are readable.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\10.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 57,
+      "image_id": "fc273b5c9d6a82bdf9f91f45c3106fbdd28041a1c813e88f3b1bf9987b2ccd8a",
+      "region_id": "confirmed-fc273b5c9d6a82bd-1",
+      "box": [
+        187.922,
+        49.006,
+        283.836,
+        92.974
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G169.png",
+          "file_sha256": "855209263de0776dfe2069d5f0b909e5ec643a3fab29524f839e1f4e1dd943f9",
+          "image_id": "fc273b5c9d6a82bdf9f91f45c3106fbdd28041a1c813e88f3b1bf9987b2ccd8a",
+          "width": 434,
+          "height": 229,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G169.png",
+            "sha256": "855209263de0776dfe2069d5f0b909e5ec643a3fab29524f839e1f4e1dd943f9",
+            "size": [
+              434,
+              229
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The heading and the two attack instructions are readable.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\10.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 58,
+      "image_id": "fc273b5c9d6a82bdf9f91f45c3106fbdd28041a1c813e88f3b1bf9987b2ccd8a",
+      "region_id": "confirmed-fc273b5c9d6a82bd-2",
+      "box": [
+        184.884,
+        152.056,
+        299.894,
+        218.008
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G169.png",
+          "file_sha256": "855209263de0776dfe2069d5f0b909e5ec643a3fab29524f839e1f4e1dd943f9",
+          "image_id": "fc273b5c9d6a82bdf9f91f45c3106fbdd28041a1c813e88f3b1bf9987b2ccd8a",
+          "width": 434,
+          "height": 229,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G169.png",
+            "sha256": "855209263de0776dfe2069d5f0b909e5ec643a3fab29524f839e1f4e1dd943f9",
+            "size": [
+              434,
+              229
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The heading and the two attack instructions are readable.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\10.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 59,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-0",
+      "box": [
+        78.21,
+        400.0,
+        373.67,
+        467.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 60,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-1",
+      "box": [
+        86.9,
+        476.0,
+        372.09,
+        501.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 61,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-2",
+      "box": [
+        568.8,
+        128.0,
+        702.31,
+        158.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 62,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-3",
+      "box": [
+        700.73,
+        423.0,
+        759.19,
+        450.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 63,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-4",
+      "box": [
+        473.21,
+        475.0,
+        669.92,
+        507.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 64,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-5",
+      "box": [
+        515.87,
+        576.0,
+        580.65,
+        609.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 65,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-6",
+      "box": [
+        273.34,
+        632.0,
+        471.63,
+        682.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 66,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-7",
+      "box": [
+        523.77,
+        744.0,
+        714.16,
+        777.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 67,
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "region_id": "confirmed-0e478d6ab36866b9-8",
+      "box": [
+        109.02,
+        829.0,
+        136.67,
+        861.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+          "file_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+          "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G176.jpg",
+            "sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The western map shows the legend and geographic labels. The two map-edge names are tracked on the eastern texture and the seam record.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\1.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 68,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-0",
+      "box": [
+        364.19,
+        176.0,
+        590.92,
+        207.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 69,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-1",
+      "box": [
+        150.89,
+        267.0,
+        202.24,
+        294.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 70,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-2",
+      "box": [
+        0.0,
+        367.0,
+        142.2,
+        396.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 71,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-3",
+      "box": [
+        391.05,
+        429.0,
+        511.13,
+        457.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 72,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-4",
+      "box": [
+        102.7,
+        556.0,
+        293.88,
+        584.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 73,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-5",
+      "box": [
+        0.0,
+        670.0,
+        120.08,
+        701.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 74,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-6",
+      "box": [
+        0.0,
+        806.0,
+        168.27,
+        887.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 75,
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "region_id": "confirmed-794dad5c347ff221-7",
+      "box": [
+        466.1,
+        769.0,
+        587.76,
+        848.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+          "file_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+          "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+          "width": 790,
+          "height": 1000,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G177.jpg",
+            "sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+            "size": [
+              790,
+              1000
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The right half continues Holklanda and Wretch Lands from the map seam. The other labels are self-contained.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\2.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 76,
+      "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+      "region_id": "confirmed-f75dbeac07dc06c5-0",
+      "box": [
+        217.124,
+        19.95,
+        397.992,
+        39.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G197.png",
+          "file_sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+          "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+          "width": 412,
+          "height": 150,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G197.png",
+            "sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+            "size": [
+              412,
+              150
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The legend is readable. Some words in the miniature inventory screenshot remain uncertain.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\8.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 77,
+      "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+      "region_id": "confirmed-f75dbeac07dc06c5-1",
+      "box": [
+        217.124,
+        43.05,
+        393.872,
+        61.95
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G197.png",
+          "file_sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+          "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+          "width": 412,
+          "height": 150,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G197.png",
+            "sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+            "size": [
+              412,
+              150
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The legend is readable. Some words in the miniature inventory screenshot remain uncertain.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\8.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 78,
+      "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+      "region_id": "confirmed-f75dbeac07dc06c5-2",
+      "box": [
+        217.124,
+        66.0,
+        395.108,
+        85.05
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G197.png",
+          "file_sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+          "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+          "width": 412,
+          "height": 150,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G197.png",
+            "sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+            "size": [
+              412,
+              150
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The legend is readable. Some words in the miniature inventory screenshot remain uncertain.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\8.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 79,
+      "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+      "region_id": "confirmed-f75dbeac07dc06c5-3",
+      "box": [
+        217.124,
+        88.95,
+        343.196,
+        106.95
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G197.png",
+          "file_sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+          "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+          "width": 412,
+          "height": 150,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G197.png",
+            "sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+            "size": [
+              412,
+              150
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The legend is readable. Some words in the miniature inventory screenshot remain uncertain.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\8.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 80,
+      "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+      "region_id": "confirmed-f75dbeac07dc06c5-4",
+      "box": [
+        217.124,
+        109.95,
+        318.888,
+        130.95
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G197.png",
+          "file_sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+          "image_id": "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227",
+          "width": 412,
+          "height": 150,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G197.png",
+            "sha256": "0d5a41c6b6caa80eea6b87de1b8e4e2d6bcf34a355d74153c4196dc6e13087fb",
+            "size": [
+              412,
+              150
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The legend is readable. Some words in the miniature inventory screenshot remain uncertain.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\8.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 81,
+      "image_id": "178d7a80ab43c61702c1b8a7243a1fe07e21571495321544d5badfc23e48cad7",
+      "region_id": "confirmed-178d7a80ab43c617-0",
+      "box": [
+        0.0,
+        4.93,
+        538.92,
+        140.94
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G198.png",
+          "file_sha256": "523573d2dfcbcd43244268569e77e3a9bef9f1899c5837b69d40bb6d0a942e56",
+          "image_id": "178d7a80ab43c61702c1b8a7243a1fe07e21571495321544d5badfc23e48cad7",
+          "width": 540,
+          "height": 145,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G198.png",
+            "sha256": "523573d2dfcbcd43244268569e77e3a9bef9f1899c5837b69d40bb6d0a942e56",
+            "size": [
+              540,
+              145
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The company wordmark is legible; the trademark symbol is separate.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\1.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 82,
+      "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+      "region_id": "confirmed-c01b2bfbb77c7179-0",
+      "box": [
+        49.88,
+        3.091,
+        243.02,
+        25.009
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G203.png",
+          "file_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+          "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+          "width": 290,
+          "height": 281,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G203.png",
+            "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+            "size": [
+              290,
+              281
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Seven captions are visible in separate pause-menu rows.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\4.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 83,
+      "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+      "region_id": "confirmed-c01b2bfbb77c7179-1",
+      "box": [
+        78.88,
+        59.01,
+        214.02,
+        82.052
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G203.png",
+          "file_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+          "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+          "width": 290,
+          "height": 281,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G203.png",
+            "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+            "size": [
+              290,
+              281
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Seven captions are visible in separate pause-menu rows.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\4.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 84,
+      "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+      "region_id": "confirmed-c01b2bfbb77c7179-2",
+      "box": [
+        38.86,
+        87.11,
+        254.04,
+        109.028
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G203.png",
+          "file_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+          "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+          "width": 290,
+          "height": 281,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G203.png",
+            "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+            "size": [
+              290,
+              281
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Seven captions are visible in separate pause-menu rows.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\4.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 85,
+      "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+      "region_id": "confirmed-c01b2bfbb77c7179-3",
+      "box": [
+        58.0,
+        141.905,
+        234.03,
+        166.914
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G203.png",
+          "file_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+          "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+          "width": 290,
+          "height": 281,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G203.png",
+            "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+            "size": [
+              290,
+              281
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Seven captions are visible in separate pause-menu rows.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\4.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 86,
+      "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+      "region_id": "confirmed-c01b2bfbb77c7179-4",
+      "box": [
+        26.97,
+        170.005,
+        265.06,
+        193.89
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G203.png",
+          "file_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+          "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+          "width": 290,
+          "height": 281,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G203.png",
+            "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+            "size": [
+              290,
+              281
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Seven captions are visible in separate pause-menu rows.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\4.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 87,
+      "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+      "region_id": "confirmed-c01b2bfbb77c7179-5",
+      "box": [
+        13.05,
+        223.957,
+        280.14,
+        245.875
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G203.png",
+          "file_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+          "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+          "width": 290,
+          "height": 281,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G203.png",
+            "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+            "size": [
+              290,
+              281
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Seven captions are visible in separate pause-menu rows.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\4.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 47,
+      "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+      "region_id": "confirmed-c01b2bfbb77c7179-6",
+      "box": [
+        118.03,
+        252.9,
+        176.03,
+        275.099
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G203.png",
+          "file_sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+          "image_id": "c01b2bfbb77c7179f93c8b984de4b894db083bc5c8a7fc55cac4a1d021839368",
+          "width": 290,
+          "height": 281,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G203.png",
+            "sha256": "0640db6a4752c826f456a9f289ee8e85774532a217b8763d61b28d1a8168b95e",
+            "size": [
+              290,
+              281
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Seven captions are visible in separate pause-menu rows.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\9fd3966a618c262732b706e1475413b930befc45a1a5402345661f5991f4da76\\4.png",
+        "package_hash": "20d69b621082a86bcc021ed0658bbfdef8893fe0bcb1b401a0a9969bbc8d1396"
+      }
+    },
+    {
+      "csv_row": 88,
+      "image_id": "92431925f440243ce064107b227c3f05330b2bb89619ff8960e5180650c3859f",
+      "region_id": "confirmed-92431925f440243c-0",
+      "box": [
+        3.99,
+        2.1,
+        331.74,
+        26.1
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G220.png",
+          "file_sha256": "3521dd6949ba9b543f0c36174988b7b0024454dc7a5fa7150aeedf5b0b30d599",
+          "image_id": "92431925f440243ce064107b227c3f05330b2bb89619ff8960e5180650c3859f",
+          "width": 570,
+          "height": 300,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G220.png",
+            "sha256": "3521dd6949ba9b543f0c36174988b7b0024454dc7a5fa7150aeedf5b0b30d599",
+            "size": [
+              570,
+              300
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The heading appears above the four illustration panels.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\6.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    },
+    {
+      "csv_row": 59,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-0",
+      "box": [
+        51.0,
+        294.19,
+        242.76,
+        341.64
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 60,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-1",
+      "box": [
+        54.06,
+        346.75,
+        238.68,
+        365.73
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 61,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-2",
+      "box": [
+        368.22,
+        94.17,
+        454.92,
+        113.88
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 68,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-3",
+      "box": [
+        747.66,
+        127.75,
+        891.48,
+        151.84
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 69,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-4",
+      "box": [
+        599.76,
+        191.26,
+        637.5,
+        213.89
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 70,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-5",
+      "box": [
+        493.68,
+        267.91,
+        600.78,
+        292.0
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 62,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-6",
+      "box": [
+        451.86,
+        308.06,
+        487.56,
+        327.04
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 71,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-7",
+      "box": [
+        761.94,
+        311.71,
+        841.5,
+        337.26
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 63,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-8",
+      "box": [
+        300.9,
+        345.29,
+        434.52,
+        368.65
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 72,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-9",
+      "box": [
+        572.22,
+        405.15,
+        697.68,
+        429.97
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 64,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-10",
+      "box": [
+        331.5,
+        421.94,
+        376.38,
+        446.76
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 65,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-11",
+      "box": [
+        174.42,
+        459.9,
+        311.1,
+        497.86
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 73,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-12",
+      "box": [
+        504.9,
+        489.1,
+        587.52,
+        514.65
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 66,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-13",
+      "box": [
+        332.52,
+        545.31,
+        461.04,
+        570.86
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 74,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-14",
+      "box": [
+        502.86,
+        589.84,
+        615.06,
+        646.05
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 75,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-15",
+      "box": [
+        804.78,
+        559.91,
+        889.44,
+        618.31
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 67,
+      "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+      "region_id": "confirmed-aa9bbae1c8d47be6-16",
+      "box": [
+        68.34,
+        611.01,
+        89.76,
+        632.18
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G231.jpg",
+          "file_sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+          "image_id": "aa9bbae1c8d47be65295a6dfbde58797e84a32c8d2a8521ab0774b15cc67bb6c",
+          "width": 1020,
+          "height": 730,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G231.jpg",
+            "sha256": "5f2ee068004362c5d5ce791ee3b8ece62ac036f4cd18d7d9afed227b23058b01",
+            "size": [
+              1020,
+              730
+            ],
+            "format": "JPEG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "The compact map shows the same labels together.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\2916235a93f7366dcbc78f4e6e57ad49a2a71b702e0ab7a7d1692146d39c0aea\\3.png",
+        "package_hash": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d"
+      }
+    },
+    {
+      "csv_row": 89,
+      "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+      "region_id": "confirmed-10ef24b41261f995-0",
+      "box": [
+        51.914,
+        73.884,
+        70.498,
+        82.923
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G500.png",
+          "file_sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+          "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+          "width": 202,
+          "height": 131,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G500.png",
+            "sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+            "size": [
+              202,
+              131
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four short captions are legible on the tool tile sheet. Marker glyphs are visual assets.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\2.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 90,
+      "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+      "region_id": "confirmed-10ef24b41261f995-1",
+      "box": [
+        102.414,
+        73.884,
+        122.412,
+        82.399
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G500.png",
+          "file_sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+          "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+          "width": 202,
+          "height": 131,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G500.png",
+            "sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+            "size": [
+              202,
+              131
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four short captions are legible on the tool tile sheet. Marker glyphs are visual assets.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\2.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 1,
+      "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+      "region_id": "confirmed-10ef24b41261f995-2",
+      "box": [
+        152.914,
+        73.884,
+        169.074,
+        82.399
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G500.png",
+          "file_sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+          "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+          "width": 202,
+          "height": 131,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G500.png",
+            "sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+            "size": [
+              202,
+              131
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four short captions are legible on the tool tile sheet. Marker glyphs are visual assets.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\2.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 91,
+      "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+      "region_id": "confirmed-10ef24b41261f995-3",
+      "box": [
+        70.094,
+        101.787,
+        91.506,
+        110.171
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G500.png",
+          "file_sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+          "image_id": "10ef24b41261f995a95ce630dcf31ecc8e86881d53ed16ecb9f81ef82c003d7d",
+          "width": 202,
+          "height": 131,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G500.png",
+            "sha256": "90f5b2d6f4aec72a512f2b3f5439cbe98142b06ba964755d6e91ff2be2480455",
+            "size": [
+              202,
+              131
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Four short captions are legible on the tool tile sheet. Marker glyphs are visual assets.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac24426efdf5fed3b3a9c2afee69dfcfd5fd65efa9d878c6f199a7302e99b9\\2.png",
+        "package_hash": "a997d819ed1c639f5c5697a0804c6d81fed2e63dd5af0ce2dc6b81c8627822a4"
+      }
+    },
+    {
+      "csv_row": 92,
+      "image_id": "7638418f3fb3dd42e6e67efdb6a693a7bbf55917d2b0c22950f12aa0afd33d10",
+      "region_id": "confirmed-7638418f3fb3dd42-0",
+      "box": [
+        1.452,
+        199.592,
+        97.768,
+        234.728
+      ],
+      "sources": [
+        {
+          "path": "Avadon 3 Files/Graphics Core/G501.png",
+          "file_sha256": "dbcda09d3dd8da70bf203ecb14eb25edd8510e1faae4d6b55e54333b2df0e7c8",
+          "image_id": "7638418f3fb3dd42e6e67efdb6a693a7bbf55917d2b0c22950f12aa0afd33d10",
+          "width": 484,
+          "height": 488,
+          "provenance": {
+            "asset": "Avadon 3 Files/Graphics Core/G501.png",
+            "sha256": "dbcda09d3dd8da70bf203ecb14eb25edd8510e1faae4d6b55e54333b2df0e7c8",
+            "size": [
+              484,
+              488
+            ],
+            "format": "PNG"
+          }
+        }
+      ],
+      "confirmation": {
+        "status": "agent_visual_confirmed",
+        "reason": "Travel is the menu caption in this sprite atlas.",
+        "reviewer_type": "conversation_agent",
+        "model_label": null,
+        "evidence": "tiered\\agent\\a3ac44e41c10e0b6651c7036f94214691ece0215d5003eda4c6c677d490e164e\\4.png",
+        "package_hash": "3875577c14eab44fa05b786b110b598f8b66e723a030fa1eb89b29826aeddffb"
+      }
+    }
+  ],
+  "scan_hash": "0a56dcc378e156bcdeec89a51b6db0e375caa83e163b45c153fafa22f406db61",
+  "plan_hash": "b94da4e23973cb54c15f2bdaf8017a317c354eefae309be3459af636d7fd9a8c",
+  "unresolved_image_ids": [
+    "f75dbeac07dc06c51d65d337d884eaf579a3dab30c267457d3d438ea2a363227"
+  ],
+  "scope": "visually_confirmed_subset",
+  "human_approval": false
+}

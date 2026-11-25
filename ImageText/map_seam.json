@@ -1,0 +1,41 @@
+{
+  "composite_size": [
+    1580,
+    1000
+  ],
+  "assets": [
+    {
+      "path": "Avadon 3 Files/Graphics Core/G176.jpg",
+      "source_sha256": "f3c9e83ccf2909c3709ab8190b17e68b848a242e3983b481b433faf6936e6726",
+      "image_id": "0e478d6ab36866b9a561d53fd9e2d62e10d3d6d82cd63c13e58a5e6b98e26f32",
+      "x": 0
+    },
+    {
+      "path": "Avadon 3 Files/Graphics Core/G177.jpg",
+      "source_sha256": "a7a384d6617ea095c2bf76e54880712ee7c9805c40db520a1fe4a052f9f076b5",
+      "image_id": "794dad5c347ff221c006f77fd357ad1fbc96174562f3898ed36ff13ae43f5819",
+      "x": 790
+    }
+  ],
+  "verified_visual_package": "fde15b13e88bd9ab4de40d51998852218095b0dea9ac6772db0408608478ee5d",
+  "labels": [
+    {
+      "source": "Holklanda",
+      "stitched_box": [
+        770,
+        367,
+        932,
+        397
+      ]
+    },
+    {
+      "source": "Wretch Lands",
+      "stitched_box": [
+        772,
+        806,
+        958,
+        887
+      ]
+    }
+  ]
+}

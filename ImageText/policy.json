@@ -1,0 +1,113 @@
+{
+  "images": {
+    "Avadon 3 Files/Graphics Core/G153.png": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G158.png": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G165.png": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G169.png": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G128.png": {
+      "risks": [
+        "small_ui_labels"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G129.jpg": {
+      "risks": [
+        "small_ui_labels"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G130.jpg": {
+      "risks": [
+        "small_ui_labels"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G133.png": {
+      "risks": [
+        "small_ui_labels"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G159.png": {
+      "risks": [
+        "small_ui_labels"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G176.jpg": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G177.jpg": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G197.png": {
+      "risks": [
+        "small_ui_labels"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G198.png": {
+      "risks": [
+        "logo"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G203.png": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G220.png": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G231.jpg": {
+      "risks": [
+        "art"
+      ],
+      "known_text": true
+    },
+    "Avadon 3 Files/Graphics Core/G501.png": {
+      "risks": [
+        "small_ui_labels"
+      ],
+      "known_text": true
+    }
+  },
+  "script": "latin",
+  "calibration": {
+    "sample_count": 127,
+    "reviewer": "conversation_agent",
+    "evidence": "Viewed the Core contact sheets and 8 sprite sheets. Identified small UI labels, decorative menus and titles, maps including the G176/G177 split, tutorial labels, and developer logo. G290 is a font atlas and G500 contains editor art. No regular font family validated."
+  },
+  "families": {}
+}

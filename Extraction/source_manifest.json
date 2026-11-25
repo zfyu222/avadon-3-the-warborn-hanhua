@@ -1,0 +1,1066 @@
+{
+  "Avadon 3 Files/Av3ScenData.dat": {
+    "sha256": "1f62a0888785c85d8d1cf2f3deb3a886fe06028361e7a18a318bc6b0d30e8539",
+    "size": 5412844
+  },
+  "Avadon 3 Files/Scripts/av3floorster.txt": {
+    "sha256": "2bf6d71655d0a3544a428e7879857e7215a3f853ce141eac816bc51d0564a1e7",
+    "size": 114351
+  },
+  "Avadon 3 Files/Scripts/av3itemschars.txt": {
+    "sha256": "82f4e9ff99deee74c20fadd24c23be5e4421a5c97ed997cccaad2c0ecfc1951b",
+    "size": 142318
+  },
+  "Avadon 3 Files/Scripts/av3objsmisc.txt": {
+    "sha256": "7bd41460a38d870f612b7df898cbf42ce868c6e97b4a478e2decbbae472f40fa",
+    "size": 142840
+  },
+  "Avadon 3 Files/Scripts/ava3auxdialogue.txt": {
+    "sha256": "c46be2fbd953f0941d0ebfc614911ebac952156c2e2cc53a0ed396dbe92eeb65",
+    "size": 267179
+  },
+  "Avadon 3 Files/Scripts/basin.txt": {
+    "sha256": "d08181094a71ddc23534e0f8e99dd59d68bd827058ba542090034372122fbadc",
+    "size": 2080
+  },
+  "Avadon 3 Files/Scripts/flaglever.txt": {
+    "sha256": "fa660dbbba45500d8df1e6a5b4567cfa6686bf34a39b0ed22bed384fdc047fac",
+    "size": 1185
+  },
+  "Avadon 3 Files/Scripts/floortrap.txt": {
+    "sha256": "4fd10eb14c4cd75b7b7a245b1e23aa66a88a4050529521e79a8f11c2731421de",
+    "size": 3154
+  },
+  "Avadon 3 Files/Scripts/gate.txt": {
+    "sha256": "b1f84a19ea7e778dc532213debb87a7727fa08c27f109b80d5bad6b68a3f798f",
+    "size": 1700
+  },
+  "Avadon 3 Files/Scripts/leavezone.txt": {
+    "sha256": "31820996ca01085f5f5bea5c0d7481c2b45d81c3f2af410504cdca47511b98ec",
+    "size": 2440
+  },
+  "Avadon 3 Files/Scripts/lockbox.txt": {
+    "sha256": "555c96406464b6afabcd0f7dade3de8eba82e23bfb5af55044c31ef9c3201eec",
+    "size": 3077
+  },
+  "Avadon 3 Files/Scripts/mobarcher.txt": {
+    "sha256": "fac99034bae8315e9943573323bc6cf6335f46e14b22a74ce3677d179b2b2ec4",
+    "size": 2087
+  },
+  "Avadon 3 Files/Scripts/mobbasic.txt": {
+    "sha256": "d8af14ea5ffe1bc5e0540275d1f77b6d38e7424ebc698092fccd23fa05485492",
+    "size": 1505
+  },
+  "Avadon 3 Files/Scripts/mobboss.txt": {
+    "sha256": "598e4c64b8457dd9e16ee9239057ba4a1d0aa7d576f5efcadbfe7afefe0da1fc",
+    "size": 2698
+  },
+  "Avadon 3 Files/Scripts/mobcaller.txt": {
+    "sha256": "80a7198853370461fe1067dae8ac236a2319401688be1dc8b85c8d7de3029df0",
+    "size": 2503
+  },
+  "Avadon 3 Files/Scripts/mobflagshift.txt": {
+    "sha256": "776a33c29912e77adb43929824ffa96e55806ae8d1d3babcb9626017c2a7e6a0",
+    "size": 1738
+  },
+  "Avadon 3 Files/Scripts/mobfleeonce.txt": {
+    "sha256": "95bb85ac8962184cb6227786be55965b496522d6582bbb016cb3f2e5d92a3f78",
+    "size": 2522
+  },
+  "Avadon 3 Files/Scripts/mobflock.txt": {
+    "sha256": "f3995ddef72832bff159f091c12290ec234942761d7bdf64d9b3c146e650cd26",
+    "size": 2116
+  },
+  "Avadon 3 Files/Scripts/mobforcetk.txt": {
+    "sha256": "17d43eb518b121673c661c82fe9619846f5a5a30be19dfc6937afa17a145d2db",
+    "size": 2014
+  },
+  "Avadon 3 Files/Scripts/mobfrenzy.txt": {
+    "sha256": "787569937bfef86568fc94146dad2167c157bf60af97c5e1ee11f10b227878e1",
+    "size": 2885
+  },
+  "Avadon 3 Files/Scripts/mobfrozen.txt": {
+    "sha256": "dfdb4f8b638046e623bc0ea5cb63e4a4581b2de8c8261d9ef08b4642ac03652f",
+    "size": 2287
+  },
+  "Avadon 3 Files/Scripts/mobgphunt.txt": {
+    "sha256": "e59ad3488bb2029bd53defe771036460a103f590266af6f5b85b5dcbbc3da432",
+    "size": 1562
+  },
+  "Avadon 3 Files/Scripts/mobgpspawn.txt": {
+    "sha256": "1e8e72edb74ba1e8f054c08668fb4ff77d2594e19c7e8a6bacab2188a5794d10",
+    "size": 3262
+  },
+  "Avadon 3 Files/Scripts/mobgroup.txt": {
+    "sha256": "4b98866f8642cfd81c5e961b421a459b46938c8612cd81d222cf01f65da38221",
+    "size": 2151
+  },
+  "Avadon 3 Files/Scripts/mobgroupgd.txt": {
+    "sha256": "b4782964669adb2993a36ab15b67441068be3da0539da62652d3026e501287fb",
+    "size": 3331
+  },
+  "Avadon 3 Files/Scripts/mobguard.txt": {
+    "sha256": "f89f957b939a0d4c59679b21f280ae2f97f0e0c782b6d99b00692cd15ff69540",
+    "size": 2974
+  },
+  "Avadon 3 Files/Scripts/mobhunter.txt": {
+    "sha256": "557ffd387afa78ac9e9d44de50b75904573fc94c35bc566463f2c4f2a32175f2",
+    "size": 1772
+  },
+  "Avadon 3 Files/Scripts/mobleadpc.txt": {
+    "sha256": "76fff8883a437173ce349d960b6e420752c6a1fdfa0a30406e99c64a30fffbbe",
+    "size": 1588
+  },
+  "Avadon 3 Files/Scripts/mobmine.txt": {
+    "sha256": "db1e0fa4f24d91cd5980e0fc7f7c440b85572a536c481d41dcdd06f26c4e0cba",
+    "size": 1277
+  },
+  "Avadon 3 Files/Scripts/mobnavpt.txt": {
+    "sha256": "e0be1b19b2af040dffedcb33e18f502ab7475e59b2b515e7d13a0408933c967a",
+    "size": 2033
+  },
+  "Avadon 3 Files/Scripts/mobnull.txt": {
+    "sha256": "0718c1a2f6a2c6a0b641d0a1ac1f4a61167c12861c4ee0c9aab27bc2609a980a",
+    "size": 613
+  },
+  "Avadon 3 Files/Scripts/mobpackhunt.txt": {
+    "sha256": "73f59adad5b52689a82d1e2b0a549fb5d74e23907c2128efb839af07a26caf97",
+    "size": 2677
+  },
+  "Avadon 3 Files/Scripts/mobpatrol.txt": {
+    "sha256": "ba597befc2e2d0f2f97e49d635c395aecba3189465b5389be36d06536a1bc256",
+    "size": 1911
+  },
+  "Avadon 3 Files/Scripts/mobpet.txt": {
+    "sha256": "9f2241f9f09c7a3ee2c9fa012a603356b05c9c9e8fd8fb3f8c297b4fe0d41918",
+    "size": 1152
+  },
+  "Avadon 3 Files/Scripts/mobshiftgd.txt": {
+    "sha256": "c664e3aafde1d15c2b9ff7f7de75ba3414fd743895c706e3b6fdfb68082075e5",
+    "size": 2057
+  },
+  "Avadon 3 Files/Scripts/mobspawner.txt": {
+    "sha256": "b432f946f22571bef742a3213f77577827e3804d31ba45f036ecf0745bbae688",
+    "size": 1672
+  },
+  "Avadon 3 Files/Scripts/mobsplitter.txt": {
+    "sha256": "7088623261f028ec6c5425f6be754efe24725f4312529a84a3fe919e048b7270",
+    "size": 2102
+  },
+  "Avadon 3 Files/Scripts/mobsummoner.txt": {
+    "sha256": "0c00f4a02aea55c6eeaea0e9601f783f30bf78b9f3962c77fd8f3be73c62cc7f",
+    "size": 3017
+  },
+  "Avadon 3 Files/Scripts/mobturret.txt": {
+    "sha256": "ef047360c7450ae330cfd4a2f7b8fdf39e123a885a73a4827432c343359e413c",
+    "size": 1929
+  },
+  "Avadon 3 Files/Scripts/mobtwopts.txt": {
+    "sha256": "d266083df6cf850bf238dbc5e70a47ea02cef1b44377debdae0e977e8d91ca97",
+    "size": 2277
+  },
+  "Avadon 3 Files/Scripts/mobwimpygp.txt": {
+    "sha256": "d606b40bb9ba293625ff62352d10c7c393d9f249a425531d8e86729f875aac17",
+    "size": 1698
+  },
+  "Avadon 3 Files/Scripts/nullobj.txt": {
+    "sha256": "254f963b544e62f4410c4e49681e4ea21a299ef0777f3ee38c2ab949b121360c",
+    "size": 243
+  },
+  "Avadon 3 Files/Scripts/secdoor.txt": {
+    "sha256": "70af9cfdb8b72f51bce481e61b7ec51f5d843141491807d92ab008fd2d3d417e",
+    "size": 925
+  },
+  "Avadon 3 Files/Scripts/sparkleobj.txt": {
+    "sha256": "0509cf5ebe29032bbcd063f4bf025c32b5b79333c8c9e965a15deb7f6338a3e0",
+    "size": 1205
+  },
+  "Avadon 3 Files/Scripts/swingdoor.txt": {
+    "sha256": "d888fe6e76d802c82e15e142589f954dd1d70d7459d3354efc9d9a71037dfcb7",
+    "size": 5575
+  },
+  "Avadon 3 Files/Scripts/talkobj.txt": {
+    "sha256": "0c43e8a02352b6a09dbd5aeece25dc4ab986886b13d41cbf2b978449555a9a40",
+    "size": 426
+  },
+  "Avadon 3 Files/Scripts/textcheevos.txt": {
+    "sha256": "0375050ceb1556f3eacc961e9bc357339315b3b547d8fec3e61f4323e0ad0f0a",
+    "size": 2446
+  },
+  "Avadon 3 Files/Scripts/textcodex.txt": {
+    "sha256": "c95f62fe597c62d207816af7e077154d71e8ba2becb6dd5b52d879c372cb802f",
+    "size": 48983
+  },
+  "Avadon 3 Files/Scripts/textdialogs.txt": {
+    "sha256": "ac463b893f0fc747c03ceefce28b48d31ca682e7bd07c41917ab69474ffaae55",
+    "size": 4595
+  },
+  "Avadon 3 Files/Scripts/textdocs.txt": {
+    "sha256": "bbd23ebb28c360ea8116ed1931699b96ddee97f464c43e0cb128b7468a98b6ba",
+    "size": 38141
+  },
+  "Avadon 3 Files/Scripts/textfullskills.txt": {
+    "sha256": "f5ee51e51d4724ebe5e11ff6454099780c1bbb77be56ef7cf4dba041b3f1ebe3",
+    "size": 21851
+  },
+  "Avadon 3 Files/Scripts/texthints.txt": {
+    "sha256": "9372f68b3d7215ddad972fa62a2a15129c5a2d670aa88f7f1c63458f4c14ff62",
+    "size": 9893
+  },
+  "Avadon 3 Files/Scripts/textplot.txt": {
+    "sha256": "9795a10851625dad4a657403d707c4df8ca619ff0b65f755cb4efa5b62157bd0",
+    "size": 38283
+  },
+  "Avadon 3 Files/Scripts/textquests.txt": {
+    "sha256": "fc6171a0055289c3a2583be8e45d96e8144334bc97d20c727883fc87ac86b12e",
+    "size": 33538
+  },
+  "Avadon 3 Files/Scripts/textquests2.txt": {
+    "sha256": "b5a7368e5af627fe1b147f48f690921cd249009201dee3d14038a0c405b97bc5",
+    "size": 8189
+  },
+  "Avadon 3 Files/Scripts/textskills.txt": {
+    "sha256": "3a1b12065fa43560097943f2ba02541fe744cbce897371285967b744ab46674c",
+    "size": 8658
+  },
+  "Avadon 3 Files/Scripts/textspecitems.txt": {
+    "sha256": "26477f9c1414f065d0c7a47dae9f437662684a0a5b8d4a19e52f060cfc02a4d3",
+    "size": 8860
+  },
+  "Avadon 3 Files/Scripts/textstatus.txt": {
+    "sha256": "04db79839e0078c3a672383dbc916aed9bcab3c885297c2eaf9edb95b9ed8523",
+    "size": 4578
+  },
+  "Avadon 3 Files/Scripts/trapbox.txt": {
+    "sha256": "fd5ac12e68f1255c4e6555393692fb87ce015074dc11e4290a503bdfab56ce73",
+    "size": 2732
+  },
+  "Avadon 3 Files/Scripts/walllever.txt": {
+    "sha256": "bcecbe597fe236941f70da66a8c1719a359fcf8a4109e5830dcc8a5abc939b12",
+    "size": 873
+  },
+  "Avadon 3 Files/Scripts/wheel.txt": {
+    "sha256": "9cb57a4aab87351456066a631b08d16410c780860ac53e9417858aed3d49af3e",
+    "size": 487
+  },
+  "Avadon 3 Files/Scripts/z0dhelcryst.txt": {
+    "sha256": "a9cbcfbf7c7443bbabfcc1f61d01bb2bccceebaa985e046f2287eba0a67207dd",
+    "size": 1277
+  },
+  "Avadon 3 Files/Scripts/z0door.txt": {
+    "sha256": "0870410ce5cf5e24fba5f820882a673a448bd67bd82a43412aa15f80244be739",
+    "size": 5636
+  },
+  "Avadon 3 Files/Scripts/z0nightshade.txt": {
+    "sha256": "7a8642f42e47b59e001c236e31a9f71da1e1cd7063475ff69ec983abac62db7f",
+    "size": 17551
+  },
+  "Avadon 3 Files/Scripts/z0nightshadedlg.txt": {
+    "sha256": "de5b3efeeddb91bcc6016d9d0fdf4d99520ffd9b0158c52f0a74f5fea3a9018d",
+    "size": 162168
+  },
+  "Avadon 3 Files/Scripts/z0shade.txt": {
+    "sha256": "68ef4931d3aaa3ee7e1c783b05a03652f71532ce1b231ad31db9574bc2151991",
+    "size": 2058
+  },
+  "Avadon 3 Files/Scripts/z0shaman.txt": {
+    "sha256": "91de57e2a8abe8ebdbcf024d2683dea63f705dfea08d8f5cfac914241e649324",
+    "size": 2375
+  },
+  "Avadon 3 Files/Scripts/z0stakes.txt": {
+    "sha256": "97925ec0e8fbcfadd055028c8793bf2799000289b9829c28c2680a79430644a7",
+    "size": 2382
+  },
+  "Avadon 3 Files/Scripts/z0takershade.txt": {
+    "sha256": "a6a8f59438f63fc3c20a74afdb56ab4111dc9e3b3174bb0141918e34fd86377d",
+    "size": 1899
+  },
+  "Avadon 3 Files/Scripts/z0wolf.txt": {
+    "sha256": "d26213b50d6978c26e03c1b55da4b91d1948e94bbebdf6f026a1f13015c6f54d",
+    "size": 1907
+  },
+  "Avadon 3 Files/Scripts/z10infernal.txt": {
+    "sha256": "17d3d0102da9029f665d7536d79ac090b3e90c3e6e9fd4f1b1636f89c1f95194",
+    "size": 1865
+  },
+  "Avadon 3 Files/Scripts/z10rb2.txt": {
+    "sha256": "6138663252d90bdc302508013002afc19517b3f7284efd0fb771b607da2e5c93",
+    "size": 5399
+  },
+  "Avadon 3 Files/Scripts/z10redtower.txt": {
+    "sha256": "98c23db1a8398a57bd9b4df171f7cbe5ab2119e171049086250c491beaa7c767",
+    "size": 9717
+  },
+  "Avadon 3 Files/Scripts/z10redtowerdlg.txt": {
+    "sha256": "6f2bfee697e12eb20270b7c4944fd7ab47adc3c80bc820e31381f5d49bc1ff5b",
+    "size": 106765
+  },
+  "Avadon 3 Files/Scripts/z10spect.txt": {
+    "sha256": "2e4ec68a3105f76eb1247393d5726917744ae21c1abd9947c1623bf46697b9f9",
+    "size": 2291
+  },
+  "Avadon 3 Files/Scripts/z11deathskull.txt": {
+    "sha256": "06ecc7fe27720aec45cb6f3f33bd4bc36cc3fc140f51b7f5de5283e4e65a3fc7",
+    "size": 2461
+  },
+  "Avadon 3 Files/Scripts/z11drake.txt": {
+    "sha256": "723038b0cc95bd10230d7d2996add7b248f2bfe0262f82bf8833e5dd64d123a7",
+    "size": 3831
+  },
+  "Avadon 3 Files/Scripts/z11gankrong.txt": {
+    "sha256": "2088d3db680a1bd55ddcb5335f9dace66c8ddfa66e921498a722a4f8c7a0c952",
+    "size": 3111
+  },
+  "Avadon 3 Files/Scripts/z11golem.txt": {
+    "sha256": "61c8007dde68f97817d59df074fc3224b68f8861dca810ee804f73cb9fc9f19a",
+    "size": 3243
+  },
+  "Avadon 3 Files/Scripts/z11gorm.txt": {
+    "sha256": "cd5b09ac2137f74cdefdd44f339bb98bf3ca4e8bdd8d949757669828aa30f965",
+    "size": 2293
+  },
+  "Avadon 3 Files/Scripts/z11hoardguy.txt": {
+    "sha256": "20007b4ad357de99f37f6dec555cab525bd6cb226fee121d357fbbf99fc607d0",
+    "size": 2627
+  },
+  "Avadon 3 Files/Scripts/z11portal.txt": {
+    "sha256": "b6f99a5a7d759cccf61319af9aef12ee8ec3f08115b2f21622f1dc7845eda264",
+    "size": 560
+  },
+  "Avadon 3 Files/Scripts/z11rbgroup.txt": {
+    "sha256": "a36b51aaf819b7ebec1e9877ac2e9c0d79423921bbb4932fc7074ea420dec938",
+    "size": 1826
+  },
+  "Avadon 3 Files/Scripts/z11trapcryst.txt": {
+    "sha256": "cdcf726276d508d9750cfe3ded029c4dcd5cff8d3e96f7e40760df4d6bf610ce",
+    "size": 855
+  },
+  "Avadon 3 Files/Scripts/z11traptur.txt": {
+    "sha256": "f1cee9cba8bd2ae7d714289ec538bbe2dc323c7647153efcff5476b8de03fb4c",
+    "size": 2325
+  },
+  "Avadon 3 Files/Scripts/z11zhetkeep.txt": {
+    "sha256": "29b80775bd494915cf1819d53cdd92d12b966cf221174f17607377428a7a6666",
+    "size": 10501
+  },
+  "Avadon 3 Files/Scripts/z11zhetkeepdlg.txt": {
+    "sha256": "e5b5e0916e88c8df31ca08bf6f983cc06d85898ea0895d71d89c25e42a0a4e0b",
+    "size": 125584
+  },
+  "Avadon 3 Files/Scripts/z12bloodwave.txt": {
+    "sha256": "c7a02e70b2e95758b9d9381ed9e493730dde0a31cc3b2fd023fe3e92950f8a87",
+    "size": 3977
+  },
+  "Avadon 3 Files/Scripts/z12duchess.txt": {
+    "sha256": "7a7bcedd7226bf9dbd889e917085757773fd06c474adfa22d4c7a72d0169269c",
+    "size": 2844
+  },
+  "Avadon 3 Files/Scripts/z12goldcrag.txt": {
+    "sha256": "df045ed127807788f1b7d3079b7236f68e5282b0168a46116265902eb0f829f6",
+    "size": 8586
+  },
+  "Avadon 3 Files/Scripts/z12goldcragdlg.txt": {
+    "sha256": "88bf6a3d457c2c7716980c59ed3af76304eda44dbb2f4784e6bc1be90de4958a",
+    "size": 69748
+  },
+  "Avadon 3 Files/Scripts/z12lyacos.txt": {
+    "sha256": "2ec981ae701781a44a4820e849b52af0a8b2af0c841c8d5a7b8aa51e35287d29",
+    "size": 2666
+  },
+  "Avadon 3 Files/Scripts/z12patrol.txt": {
+    "sha256": "dac336ef2707e613bf2a8e5cfdd26043643be694030a042c2104e4b10a8826c6",
+    "size": 3102
+  },
+  "Avadon 3 Files/Scripts/z12titanguy.txt": {
+    "sha256": "5a836f5622972babb005b8134a011a0ff9a57fccc43aff383c84db0550123105",
+    "size": 2940
+  },
+  "Avadon 3 Files/Scripts/z12treasury.txt": {
+    "sha256": "5267847cac74c39ef2b849dcd5b39a52a7049dcecaa2f51a7141e428a4f650e9",
+    "size": 2903
+  },
+  "Avadon 3 Files/Scripts/z12warborn.txt": {
+    "sha256": "afcd4581ef468654ab8d0852823956176725f4faecbaa2713642459a58230f0a",
+    "size": 2483
+  },
+  "Avadon 3 Files/Scripts/z13arena.txt": {
+    "sha256": "949477aee4bde855a979ab774b549ad8f0cdeb30b8423fbef113b1d1c706a394",
+    "size": 12459
+  },
+  "Avadon 3 Files/Scripts/z13arenadlg.txt": {
+    "sha256": "ca95cac2b8fdf10722406392ca5417935387849b10119ba70e91cf963ef6caa6",
+    "size": 89618
+  },
+  "Avadon 3 Files/Scripts/z13bandal.txt": {
+    "sha256": "7139f9f96f8fd51843020b8d6ab7b013c42222ed9ce0c124042721cde20fd7d5",
+    "size": 3408
+  },
+  "Avadon 3 Files/Scripts/z13bosshelp.txt": {
+    "sha256": "d502c9835504fe0c264fe690c043628c16cf8c94e972523fe2261c921a24b164",
+    "size": 2003
+  },
+  "Avadon 3 Files/Scripts/z13crystal.txt": {
+    "sha256": "295a375f137a3f0f459de1d174a487578202029ac8fa80351977cf6cedc52035",
+    "size": 637
+  },
+  "Avadon 3 Files/Scripts/z13crystal2.txt": {
+    "sha256": "8e6464398bafb4e3eb5b25346bb643bb7f4e56274e8258f558ae1671a064c2be",
+    "size": 658
+  },
+  "Avadon 3 Files/Scripts/z13gateguard.txt": {
+    "sha256": "7e16a890a7697d45c058ae26dd437630e0eda5268dad2751424e42be60972f41",
+    "size": 1883
+  },
+  "Avadon 3 Files/Scripts/z13ghosts.txt": {
+    "sha256": "d476de515f4a1822274921ff90838f5c9fdb759be1c80178861015c129fa312a",
+    "size": 2046
+  },
+  "Avadon 3 Files/Scripts/z13golath.txt": {
+    "sha256": "68b5ab99ec3ba4e5e6240b723463080481a7966f2fec54efa368c0efb5da478a",
+    "size": 2964
+  },
+  "Avadon 3 Files/Scripts/z13golath1.txt": {
+    "sha256": "527ab4e0e3d222f7ea4d0c56780ba11527ab38d688156f19ea5863695a13aa5e",
+    "size": 2505
+  },
+  "Avadon 3 Files/Scripts/z13incubus.txt": {
+    "sha256": "7cc7582b8d7a472d3b4dd5fc0eb2cee35f48a9c465d4c4543e6bd1c35fbd281d",
+    "size": 3239
+  },
+  "Avadon 3 Files/Scripts/z13kita.txt": {
+    "sha256": "ce7672012f6ae57e2673c52dab82059a23bf3b0b5214b08dbaf52eeb1d49de52",
+    "size": 1998
+  },
+  "Avadon 3 Files/Scripts/z13sever.txt": {
+    "sha256": "472a5db75ceeeb05811722006795c95079086dff2aeaf13887d9d4d780f29ab6",
+    "size": 3117
+  },
+  "Avadon 3 Files/Scripts/z13shade.txt": {
+    "sha256": "40260ce1811642c6e32faae307cab033d5d11e46b1af56e7aef9353a6af29cca",
+    "size": 1760
+  },
+  "Avadon 3 Files/Scripts/z13threvar.txt": {
+    "sha256": "6193ea30e0fe33aaefbdaf4c3b021158dc1e0cf78cbed496545d9a86f6a1816a",
+    "size": 3209
+  },
+  "Avadon 3 Files/Scripts/z13wheel.txt": {
+    "sha256": "1aefe530efa3a570fb541319f67a4f2002504a2d2fe2a937231810be828269da",
+    "size": 859
+  },
+  "Avadon 3 Files/Scripts/z13zhetguard.txt": {
+    "sha256": "3b45a856cca26f4113c5bbc2d4b1d09687daab0be7dba8596e43e8abbc6b41a6",
+    "size": 1902
+  },
+  "Avadon 3 Files/Scripts/z13zheth1.txt": {
+    "sha256": "f38a5ad63ebd556fa2ba9165b5f25dbae9ea75cdaf95f10f6b53578aa4eeedbe",
+    "size": 2039
+  },
+  "Avadon 3 Files/Scripts/z13zheth2.txt": {
+    "sha256": "2c5a29a9fc3ad4d8952011d3ab82cce4d1181840ff5074aa0738aae958ff3ccd",
+    "size": 1875
+  },
+  "Avadon 3 Files/Scripts/z13zheth3.txt": {
+    "sha256": "0bdd003603b0f25d458f3a0d24c3f2a2d0ba64e449b035506d52a2cca3c9583b",
+    "size": 2699
+  },
+  "Avadon 3 Files/Scripts/z14dirran.txt": {
+    "sha256": "5a66f1f02d906a8683074f5767e7c6112c4b15098e9781e5c1f4aa9e9ab7a27d",
+    "size": 1786
+  },
+  "Avadon 3 Files/Scripts/z14entourage.txt": {
+    "sha256": "87654b7a615634fd674b19f8a490d8a5444c611a3d37aefd9e95856fbd0456b4",
+    "size": 2076
+  },
+  "Avadon 3 Files/Scripts/z14fortfore.txt": {
+    "sha256": "7c56694bd6935efae53cc8af3b7aa798685a91e90917112036797f443fe28d25",
+    "size": 9104
+  },
+  "Avadon 3 Files/Scripts/z14fortforedlg.txt": {
+    "sha256": "a5502ce5a72b0e747ea854f7a7c4f53865edc82180c95e1ea383a8e067ce87e0",
+    "size": 127002
+  },
+  "Avadon 3 Files/Scripts/z14hands.txt": {
+    "sha256": "9da018f26bfcb21def769c22159afcbee816cbfdb6699d5593ba8efcc8d2e83f",
+    "size": 1817
+  },
+  "Avadon 3 Files/Scripts/z14portal.txt": {
+    "sha256": "115f9b3be3335252e2276dc8c79460f380982fe2b33886b6ab4bf8c0fa298801",
+    "size": 399
+  },
+  "Avadon 3 Files/Scripts/z14rbguard.txt": {
+    "sha256": "55b3e8f0fc557833981be51dafb31e3627a683a4e2e50a440014dca7bf9117aa",
+    "size": 1502
+  },
+  "Avadon 3 Files/Scripts/z14spies.txt": {
+    "sha256": "43b123733ce97e82d15ea333009e3637c79113129f1371a36444938fe3bdc30d",
+    "size": 2315
+  },
+  "Avadon 3 Files/Scripts/z14taroe.txt": {
+    "sha256": "a7cbe17ed4d18a508bcd548dcf437bb3702976553324debb029fe93d34a3b92b",
+    "size": 2470
+  },
+  "Avadon 3 Files/Scripts/z15adele.txt": {
+    "sha256": "53e53045b73d426293d76ce17e81d1d09baeab8dfc23d59b663701a62ffca3af",
+    "size": 2858
+  },
+  "Avadon 3 Files/Scripts/z15basilisk.txt": {
+    "sha256": "0b94cc123711452c6c283db005f52bbf9395fe2ddfe89094e521f5f655a8be15",
+    "size": 2533
+  },
+  "Avadon 3 Files/Scripts/z15berazawd.txt": {
+    "sha256": "dc503ca704241df0dd6bf083090146ce9e87a8422f44bb571081d132ad5c04e0",
+    "size": 6563
+  },
+  "Avadon 3 Files/Scripts/z15berazawddlg.txt": {
+    "sha256": "0bb9f25333aa44de9470510b71ef778765b44cc430ce5094c53edae49b542307",
+    "size": 79597
+  },
+  "Avadon 3 Files/Scripts/z15bones.txt": {
+    "sha256": "2db2705af7e159aa6c9ece2bb5cb606d8742074b76664c772df472563a47aec9",
+    "size": 2797
+  },
+  "Avadon 3 Files/Scripts/z15construct.txt": {
+    "sha256": "f3d86695f897eca49df1c3ac2aa8a710216962fa1b522f0fa209d5a3c2c86cbf",
+    "size": 2697
+  },
+  "Avadon 3 Files/Scripts/z15crystal.txt": {
+    "sha256": "ed0947460b473c3d6396ee97ae3640a3ae49ee7e3eb71ce41711f39dfc57f039",
+    "size": 699
+  },
+  "Avadon 3 Files/Scripts/z15fudo.txt": {
+    "sha256": "85a14ddc701009b513a0a4e0fe5cc19f01ea0bc1f176701ce776c08e88126a1f",
+    "size": 1951
+  },
+  "Avadon 3 Files/Scripts/z15gryfyn.txt": {
+    "sha256": "6dbb9f288107b4c3fd158ea71c3b6ff721e58778193885e0b73f2b4dc503d11a",
+    "size": 3567
+  },
+  "Avadon 3 Files/Scripts/z15hallguard.txt": {
+    "sha256": "a6fc1569f5d1a58c1a598a2eb57141509c6abc823900a9bcc1d495efba21f571",
+    "size": 2621
+  },
+  "Avadon 3 Files/Scripts/z15huntshade.txt": {
+    "sha256": "510951d31776b03d2f48cca7efc5d55ad008a3625556c2a2b7fb22d1161c363d",
+    "size": 2410
+  },
+  "Avadon 3 Files/Scripts/z15shade.txt": {
+    "sha256": "0c7367070ffe9efa6966598b8086779772f542c0d2796a1c02ba61bee7a5b47e",
+    "size": 2303
+  },
+  "Avadon 3 Files/Scripts/z15wolf.txt": {
+    "sha256": "ed1a35bfa26e09d141232e5ae637aaed54785eade335666bcc16adc3a8c06b50",
+    "size": 2583
+  },
+  "Avadon 3 Files/Scripts/z16altarguy.txt": {
+    "sha256": "94cfe45da6e12ee4dcb0b0b15936988a3d8e87cf89fc749f353d57778f77a17e",
+    "size": 2151
+  },
+  "Avadon 3 Files/Scripts/z16drake.txt": {
+    "sha256": "618a7cd6c462bc26bb0e93be1a83a93fa30edc3737a63d455bdd630b516631f1",
+    "size": 3160
+  },
+  "Avadon 3 Files/Scripts/z16fireshade.txt": {
+    "sha256": "605e6c4f1a75a8166c15bcbcc24fec288019eb0a4444ee09b927bb4a7c1835aa",
+    "size": 927
+  },
+  "Avadon 3 Files/Scripts/z16guard.txt": {
+    "sha256": "2342115e3247c39e6deaed17c8bf9edff5f99f479919e0df30efa332acf29ff2",
+    "size": 2021
+  },
+  "Avadon 3 Files/Scripts/z16guardfol.txt": {
+    "sha256": "633e1b3b3f2f4d700c9228d311afed4e6383f422e6fd19a9b5a1bdf8545913ce",
+    "size": 2175
+  },
+  "Avadon 3 Files/Scripts/z16libgolem.txt": {
+    "sha256": "5267dfb0959423dab99e7eb7cf0e2be42b0c04ec15e1f19a161ce81c5f3b15a7",
+    "size": 2590
+  },
+  "Avadon 3 Files/Scripts/z16ravilla.txt": {
+    "sha256": "46645ab9c807ec8e32b919ac19cfbd593e0931a0155a4fc2dc8a1a7f1dfc3536",
+    "size": 3026
+  },
+  "Avadon 3 Files/Scripts/z16ravshade.txt": {
+    "sha256": "d6120a178121edb589555ab3a3fe4e7d67f923a86ce6b70a0c364955ea4f5132",
+    "size": 1411
+  },
+  "Avadon 3 Files/Scripts/z16souljar.txt": {
+    "sha256": "f2e30a2941723c5449c9e14b6fb224ec0cffd1c8eb0d5b131ba12f85a66898c8",
+    "size": 2230
+  },
+  "Avadon 3 Files/Scripts/z16temvelusa.txt": {
+    "sha256": "3bf3e9b9f949e55707841a1883a18b34a0d3c3d4c6e652a6c751cfaa708f53b0",
+    "size": 9128
+  },
+  "Avadon 3 Files/Scripts/z16temvelusadlg.txt": {
+    "sha256": "a6b5e5faaf7d0b82ecb39e8b888e9e976459fb057e78fff256fefd42b47e54dc",
+    "size": 75845
+  },
+  "Avadon 3 Files/Scripts/z16velusa.txt": {
+    "sha256": "55b92792a998f47c48f86f8df5be0b1f273c5fa9faec3f726842b31fb6644b2b",
+    "size": 4948
+  },
+  "Avadon 3 Files/Scripts/z17aelia1.txt": {
+    "sha256": "a303c91d496eee9f6da8fad2c53ff90e61adfde8156093955de914de0721d0e4",
+    "size": 1787
+  },
+  "Avadon 3 Files/Scripts/z17aelia2.txt": {
+    "sha256": "c5c43e2e71cb6f6a591e0405cf7b808abcd185e312372c1f505bea0f70d30460",
+    "size": 2452
+  },
+  "Avadon 3 Files/Scripts/z17aelia3.txt": {
+    "sha256": "434ed4a66772e1ec6c024903638245034eecb3c52c806fadb75f76c3ffba1f5c",
+    "size": 2298
+  },
+  "Avadon 3 Files/Scripts/z17ahala.txt": {
+    "sha256": "27fc907da54cf9b44baaa89c10769d2d0712d373f0fb6c5c8624754594f7e7b7",
+    "size": 2801
+  },
+  "Avadon 3 Files/Scripts/z17antruins.txt": {
+    "sha256": "ec922f327697419dd5f8bd5a9ffaf53b9391d6c15a399bb5ef2fa00f2dd933da",
+    "size": 9820
+  },
+  "Avadon 3 Files/Scripts/z17antruinsdlg.txt": {
+    "sha256": "f8823aecf7db9d64879abe9bded0f37b314a0901d0bb325d73e41ddb8e640e8b",
+    "size": 61711
+  },
+  "Avadon 3 Files/Scripts/z17golem.txt": {
+    "sha256": "f39ebe5a473ffb2dca3a7eba9f72c7091134196ff2dd071ca99d1440bcd5b97a",
+    "size": 3370
+  },
+  "Avadon 3 Files/Scripts/z17patrol.txt": {
+    "sha256": "6188be91ea70d70b403cda05b040c1851e51519ed9c9013b247027caac5c499e",
+    "size": 3538
+  },
+  "Avadon 3 Files/Scripts/z18crystal.txt": {
+    "sha256": "f40e655071eec6df0815e798ef711d4f66412a7b1f7babc0d78fe9ed7ec474b6",
+    "size": 605
+  },
+  "Avadon 3 Files/Scripts/z18djalnar.txt": {
+    "sha256": "6be7f9e5fec64bccce7e19b67b38d138d64ef5a9844fac9a69010929bb7ab5f0",
+    "size": 2511
+  },
+  "Avadon 3 Files/Scripts/z18fleedood.txt": {
+    "sha256": "700a8ff3b6c207d77f8e1a216ad525eb9e4a4f7b483b4d69fc0aca1571402c89",
+    "size": 1763
+  },
+  "Avadon 3 Files/Scripts/z18halia2.txt": {
+    "sha256": "1213ad2c13feccf1d35ba0906350e1af1a215bd88b78ddf17c0b86755c99d326",
+    "size": 3713
+  },
+  "Avadon 3 Files/Scripts/z18halia3.txt": {
+    "sha256": "f0934bfa570716b981b7239669b7e96ab018a4c1a681b8f9a8abe471c6b306d0",
+    "size": 3942
+  },
+  "Avadon 3 Files/Scripts/z18mound.txt": {
+    "sha256": "f68b3b94ba0425832ddd27a6a803765d9874341031ce7ab4b9e1eb2f8d7d50e8",
+    "size": 2884
+  },
+  "Avadon 3 Files/Scripts/z18shade.txt": {
+    "sha256": "af12cca0a0ab327427b96d587375ead709f989de25c24b8d2043dd9df53f8b56",
+    "size": 1969
+  },
+  "Avadon 3 Files/Scripts/z18slimebat.txt": {
+    "sha256": "b1a65e29834e3c38d501493ad5b05280901e65638b25d205fe336e88fc936ad5",
+    "size": 1703
+  },
+  "Avadon 3 Files/Scripts/z18spider.txt": {
+    "sha256": "8957507ad6ccdc06052ba4578f60a5351b714e48c4b0b302dd2b3f218522bfc2",
+    "size": 3009
+  },
+  "Avadon 3 Files/Scripts/z18svarpen.txt": {
+    "sha256": "9e6b0c728a449c0c541b6f8f9c80481bbdaf58d7923abeb510c3055b96587526",
+    "size": 8619
+  },
+  "Avadon 3 Files/Scripts/z18svarpendlg.txt": {
+    "sha256": "97639f30ecb6fe5843da717a1a44334664cc7eb84782332bfde4b42efb385deb",
+    "size": 70947
+  },
+  "Avadon 3 Files/Scripts/z18turret.txt": {
+    "sha256": "8afafe953fd195148cd11c82c57f8710fe89bcf312f9b5e1c7917c6148e25ac7",
+    "size": 2204
+  },
+  "Avadon 3 Files/Scripts/z1compost.txt": {
+    "sha256": "b5471602986f69c3aa0d1ef5471d06d472fd6ba30d73e3f3e4d9235507835e35",
+    "size": 2271
+  },
+  "Avadon 3 Files/Scripts/z1daum.txt": {
+    "sha256": "e284e35c06ccea6a18b474b00e73d12dcad1ab9e8a315260413115e11d03b128",
+    "size": 1842
+  },
+  "Avadon 3 Files/Scripts/z1hilliar.txt": {
+    "sha256": "a6a446f332870288004b4ee210d241cd807fe29b76abbd730bb9e26c9b582e04",
+    "size": 1618
+  },
+  "Avadon 3 Files/Scripts/z1vanstead.txt": {
+    "sha256": "e638e0820fc7f83201943e8734aaa6f170f41a436eba84d2ebe5beae589f0c62",
+    "size": 12001
+  },
+  "Avadon 3 Files/Scripts/z1vansteaddlg.txt": {
+    "sha256": "7f0489132aa0f547591899fbb7e2bd5d550ef97b0b525c1d500888efb7f9bae2",
+    "size": 112464
+  },
+  "Avadon 3 Files/Scripts/z2archer.txt": {
+    "sha256": "ce090bb009c2117a551b4fb2411dd83da70433797b3e79bc11792c0410bd8595",
+    "size": 2028
+  },
+  "Avadon 3 Files/Scripts/z2doria.txt": {
+    "sha256": "119b505bf040f392f99ba64ac6c5d6e93058207cdf9a71733625a96ba10fd0ad",
+    "size": 1527
+  },
+  "Avadon 3 Files/Scripts/z2geert.txt": {
+    "sha256": "6e26cc345dd5213815d24dad40f71ff550963c0897838711b52141a3c10d6095",
+    "size": 1875
+  },
+  "Avadon 3 Files/Scripts/z2linus.txt": {
+    "sha256": "909cb274cb0c05827362330aca19b2f8163c89ce05130896d3c0658a5259d56b",
+    "size": 2346
+  },
+  "Avadon 3 Files/Scripts/z2mines.txt": {
+    "sha256": "49623f994182dc1a1b80c50164acf59c78337505e7156300c839b325ef66f800",
+    "size": 1373
+  },
+  "Avadon 3 Files/Scripts/z2padgat.txt": {
+    "sha256": "278d138ebffd3f541458290763bffc9e784a671143cc9e3db49387404db9e283",
+    "size": 3353
+  },
+  "Avadon 3 Files/Scripts/z2patrol.txt": {
+    "sha256": "38fab70652981613125a1622bada0c0284d62bf76091aa1f56cbeb11584da6ad",
+    "size": 1747
+  },
+  "Avadon 3 Files/Scripts/z2queen.txt": {
+    "sha256": "c0d0ff83c4150fde5834e12f68cf87dad85765904c40f3c2278f788d227e254d",
+    "size": 2313
+  },
+  "Avadon 3 Files/Scripts/z2shaman.txt": {
+    "sha256": "949167da456123a7f680868d9e84ffd2ba068719c20f2cd03f8fe129bed65fe1",
+    "size": 2392
+  },
+  "Avadon 3 Files/Scripts/z2smuggler.txt": {
+    "sha256": "907a2a6964bae29b3416f8ba26464814198bc58be618816e3c5042023777f124",
+    "size": 1873
+  },
+  "Avadon 3 Files/Scripts/z2trupo.txt": {
+    "sha256": "d0598df6fdf7bf3f3ceb57680be99d41d610fecd1fb04406a23db6bf1d054798",
+    "size": 3356
+  },
+  "Avadon 3 Files/Scripts/z2vanareach.txt": {
+    "sha256": "f7b61911edf54487e23b5d5d0a7e4381b7bbf9e59dd1d53ffdb06cfc4fd7b1ff",
+    "size": 5862
+  },
+  "Avadon 3 Files/Scripts/z2vanareachdlg.txt": {
+    "sha256": "6941c15296eb3e955e5b58ba3e2f985d3ae977f66890baa48ac52cc27a25fee0",
+    "size": 77679
+  },
+  "Avadon 3 Files/Scripts/z3bigguard.txt": {
+    "sha256": "af4b0e1551a2e7246f8d2be36b8763fad2fce4d1d4f96ddbe3d7c87f7123d80e",
+    "size": 4586
+  },
+  "Avadon 3 Files/Scripts/z3cryst.txt": {
+    "sha256": "1b75f0937df45776b70a84360e37335c4146a6867c2d26989eed6001473acbab",
+    "size": 732
+  },
+  "Avadon 3 Files/Scripts/z3crysttrap.txt": {
+    "sha256": "ea1efd4c6873ce3d0119362d1846e06606163f965c607b99e2114eca9d744399",
+    "size": 626
+  },
+  "Avadon 3 Files/Scripts/z3daum2.txt": {
+    "sha256": "592d3f4fe96019facd3621e6b9a06d60a8d338ad2e64fbc750f25d514ddb1626",
+    "size": 6633
+  },
+  "Avadon 3 Files/Scripts/z3drake.txt": {
+    "sha256": "2d7025e43d9b222a0995d97b08f6510e4fa440903be37e1c59d55b0f6d2727cd",
+    "size": 2113
+  },
+  "Avadon 3 Files/Scripts/z3fangmaw.txt": {
+    "sha256": "88262dee4192e1e61c04268b809994ccdf7fa93a088827418077cda1e99d6ab0",
+    "size": 2457
+  },
+  "Avadon 3 Files/Scripts/z3fourcir.txt": {
+    "sha256": "20dae788ad725b2688a8d9b2ceb9bad648ec86ca2588a4ac2c26a029b975f079",
+    "size": 7381
+  },
+  "Avadon 3 Files/Scripts/z3fourcirdlg.txt": {
+    "sha256": "38789c3a92e2c54b3ff136c799454ff688b0214fbe3ebabcaec2f8395432ab46",
+    "size": 66604
+  },
+  "Avadon 3 Files/Scripts/z3ghost.txt": {
+    "sha256": "ae7711b200f80cefa965a15adad3c71a005127ee702318b3394211cefd7e1d43",
+    "size": 2437
+  },
+  "Avadon 3 Files/Scripts/z3hilliar.txt": {
+    "sha256": "ff5b2dd675dba8b52134d52c7250784dd503daeb08461771f304283eff75e4c6",
+    "size": 2450
+  },
+  "Avadon 3 Files/Scripts/z4arilda.txt": {
+    "sha256": "5799fc0f07e68e981aee888cf229e3b914b4281895fb14b6a4f6f7eb14195948",
+    "size": 2027
+  },
+  "Avadon 3 Files/Scripts/z4ilse.txt": {
+    "sha256": "325bb8903bbaa8ccc24176032775776e7732451119ccf3917d12d146c0f28d54",
+    "size": 3777
+  },
+  "Avadon 3 Files/Scripts/z4imp.txt": {
+    "sha256": "1c8c5b6565532fbe72bbd843648746e6d65baf59a46d55442cae0c00d7a4d72c",
+    "size": 2037
+  },
+  "Avadon 3 Files/Scripts/z4kiriktor.txt": {
+    "sha256": "460e11b9813d956ab5eb018383bab9b81b5c30dc6ce1d8ed7d6516ab8f79d226",
+    "size": 9471
+  },
+  "Avadon 3 Files/Scripts/z4kiriktordlg.txt": {
+    "sha256": "3b89ba847937987f19e5a716ca1be44c888b11ddcdc1beb843950e19f76e1e9c",
+    "size": 132459
+  },
+  "Avadon 3 Files/Scripts/z4rockcurse.txt": {
+    "sha256": "ed01076cc2ef1c5361eb409d46783f68f0dff40656c3e483bd5646ea92f332d3",
+    "size": 2269
+  },
+  "Avadon 3 Files/Scripts/z4runwolf.txt": {
+    "sha256": "ea5f94fad4a339450518fdddfd2f0d960a83012e43d12def0eb63c47de65ebfa",
+    "size": 1993
+  },
+  "Avadon 3 Files/Scripts/z4shade.txt": {
+    "sha256": "3e43cf573a488e59cdcaeae3782b513d03477ed4746a15a265ba3cdf29be397c",
+    "size": 1937
+  },
+  "Avadon 3 Files/Scripts/z4torch.txt": {
+    "sha256": "33d0880fdc6208b8fa1ca14e05f1776f2cfdc5588dec86c6924bd8a8d862904d",
+    "size": 1955
+  },
+  "Avadon 3 Files/Scripts/z4wretch.txt": {
+    "sha256": "c820bdbc1cddb3f553d5ddb3867ca354a77ee832fcfd7b47fe43885eb835ba7f",
+    "size": 1710
+  },
+  "Avadon 3 Files/Scripts/z5construct.txt": {
+    "sha256": "e4bf53fdd6878e5dec6c07099ecda3bd094ea07aa21baebd4a63dc5cf3f9c82c",
+    "size": 1679
+  },
+  "Avadon 3 Files/Scripts/z5cow.txt": {
+    "sha256": "c68f3dc4fcda3803357f37957ae56572a4141ac23f091e50013f4c857e5c0343",
+    "size": 1787
+  },
+  "Avadon 3 Files/Scripts/z5dirran.txt": {
+    "sha256": "8a20e09994ba95b4f236375c1cf5e6c4ce7542492059f211d157015863da3ed6",
+    "size": 1678
+  },
+  "Avadon 3 Files/Scripts/z5greenref.txt": {
+    "sha256": "b8e0bcf0a3031b974669e504e3ff8e2a815f3b896163ac1444256072bcfa831b",
+    "size": 6810
+  },
+  "Avadon 3 Files/Scripts/z5greenrefdlg.txt": {
+    "sha256": "c3b521e52a4bda88668f8130b1a6acbeb433b3d3aa8f75d07c9042728d750ddd",
+    "size": 124527
+  },
+  "Avadon 3 Files/Scripts/z5mazeguard.txt": {
+    "sha256": "02647d7fe598b9ad491deaf6224e1f40cdfb036c71b84c7fd50a378eb54c3308",
+    "size": 3769
+  },
+  "Avadon 3 Files/Scripts/z5portal.txt": {
+    "sha256": "add16cfdf19010b71346fe9eab4106668f77a6b6ad14253af0e0bcd5a5cf2265",
+    "size": 617
+  },
+  "Avadon 3 Files/Scripts/z5rb.txt": {
+    "sha256": "e684210cedbfa73b08ce8c77a55be8165a1c6f7ac7a11caaace295559fc07294",
+    "size": 2179
+  },
+  "Avadon 3 Files/Scripts/z5sentinel.txt": {
+    "sha256": "544caed0697a97622850237b49c2041ccfe6093964f00356e7bc06a4dab820da",
+    "size": 3004
+  },
+  "Avadon 3 Files/Scripts/z5shezass.txt": {
+    "sha256": "03d4dcf2f41c54b88f1c47ac3fe720c884744df82549ec6247076de0ff860561",
+    "size": 2554
+  },
+  "Avadon 3 Files/Scripts/z5spider.txt": {
+    "sha256": "dc5e7ed8ac7f798e571edaec0898eeedc59eecd59cda781070e52737b7d7f0f5",
+    "size": 2524
+  },
+  "Avadon 3 Files/Scripts/z5torch.txt": {
+    "sha256": "6bd21461c68e9d7166c9b7377bcc1f66e20fd19a51868cc9f9c7ad202fbf4444",
+    "size": 1706
+  },
+  "Avadon 3 Files/Scripts/z6alric.txt": {
+    "sha256": "5281fdd8e863b6c317ff8bf8e852c2a8736821809b58a5d7c6513f476f685754",
+    "size": 2231
+  },
+  "Avadon 3 Files/Scripts/z6bat.txt": {
+    "sha256": "1c7804e946069c3d6aac11f088acac285989d054340098331120c6f722763873",
+    "size": 2524
+  },
+  "Avadon 3 Files/Scripts/z6bigsent.txt": {
+    "sha256": "0f86d2e1480c49abede1faf95cc926304cc21e58e1f9ab698c594b1ddf5c9d0b",
+    "size": 2896
+  },
+  "Avadon 3 Files/Scripts/z6bosshorr.txt": {
+    "sha256": "04c514178ed27e3dd66074f07366110608884f802fa06c96d73dfe82fa2a772e",
+    "size": 2585
+  },
+  "Avadon 3 Files/Scripts/z6const1.txt": {
+    "sha256": "695d86b7f5cca6fef31a62db86160dcc5d8f9d4d6189b15f28ccb424217144e0",
+    "size": 1969
+  },
+  "Avadon 3 Files/Scripts/z6cryst.txt": {
+    "sha256": "35c2d321a0f19de1a9403d8882ae8094cb3a1aea74120784e3b8ed53d4ae58ad",
+    "size": 687
+  },
+  "Avadon 3 Files/Scripts/z6defender.txt": {
+    "sha256": "12dc652cce73f1a1c83803bfc98ab11f1d537dc4d7d0b0812e5ec29aac40646a",
+    "size": 2556
+  },
+  "Avadon 3 Files/Scripts/z6farland.txt": {
+    "sha256": "272194551f66c9580c97f3f3a6603fb4efea7490437c78b7b11eb73a6ca10755",
+    "size": 2801
+  },
+  "Avadon 3 Files/Scripts/z6horror.txt": {
+    "sha256": "367c6a7793ffe406154b102a5b400373d5e180efcbb212f82ab5ab9ed07bd736",
+    "size": 3283
+  },
+  "Avadon 3 Files/Scripts/z6keeper.txt": {
+    "sha256": "1d295f722ebd4cd25eac680ad4163bb87d32de0efe6620a2e84909ed4b201197",
+    "size": 2308
+  },
+  "Avadon 3 Files/Scripts/z6rotborder.txt": {
+    "sha256": "a4f1a15bf3570477f4cc8a30677b6c08b2ab4d5f3a5cffe5dec01a64487a8f44",
+    "size": 8283
+  },
+  "Avadon 3 Files/Scripts/z6rotborderdlg.txt": {
+    "sha256": "6d2e8121661759a1b27e45ed1a2cd2c08f9ea2bb13239ce45cc988a156a49016",
+    "size": 80177
+  },
+  "Avadon 3 Files/Scripts/z6sentboss.txt": {
+    "sha256": "02b574213b1fb6528778b5e3f743426a6443f0bd4bc753eaf266eda78338e8be",
+    "size": 4021
+  },
+  "Avadon 3 Files/Scripts/z6sentboss2.txt": {
+    "sha256": "64209883ef2955641542a69ef19ade6e18a7dd97681abb6c18890a15b97ce8a1",
+    "size": 2716
+  },
+  "Avadon 3 Files/Scripts/z6shade.txt": {
+    "sha256": "d9bdb454a3801f6ba222a999335e025694567be3fc98246ca98b9ffd877d8e43",
+    "size": 723
+  },
+  "Avadon 3 Files/Scripts/z6sporedude.txt": {
+    "sha256": "06738b7c448e322275a8e22b5f4fde32059afa562e249dd2b57e2ba4167ce4b2",
+    "size": 3233
+  },
+  "Avadon 3 Files/Scripts/z6tuncryst.txt": {
+    "sha256": "72a831576e39869a3a370939524cbc9f60128242ee0325f439ba05b6c04e9cf9",
+    "size": 778
+  },
+  "Avadon 3 Files/Scripts/z7caller.txt": {
+    "sha256": "e46f36619cd0c447a9676ffa51547b8727bef929201bacd8e4b67a1cb16ec674",
+    "size": 2488
+  },
+  "Avadon 3 Files/Scripts/z7demon.txt": {
+    "sha256": "7cbff170e63d1a72a3f8924afda817d7720d6f18b35120a8fd3c210fdd475de0",
+    "size": 3027
+  },
+  "Avadon 3 Files/Scripts/z7egmon.txt": {
+    "sha256": "66434ac4200b59e1272104ba9ac9a80ec06cefffd25c87eebfd012e64c4b9020",
+    "size": 3530
+  },
+  "Avadon 3 Files/Scripts/z7egmonshd.txt": {
+    "sha256": "c6f69401dc80176e9125a2401cd694eeed5815fcde6c2f0b8177384bc904e264",
+    "size": 1406
+  },
+  "Avadon 3 Files/Scripts/z7fravra.txt": {
+    "sha256": "dc3a66075135aa2fdbc284da20d3bc055bb0d498267f3cb0faa2f3caac32aec1",
+    "size": 2378
+  },
+  "Avadon 3 Files/Scripts/z7ghoul.txt": {
+    "sha256": "8a4c45d76e6184c54b33ac251716fa980c8a05e7a245a8c66e36557d3c9af8b9",
+    "size": 2881
+  },
+  "Avadon 3 Files/Scripts/z7horror.txt": {
+    "sha256": "0a9c977e39ef2d271a46254753809b748d8319c06ac6f6518d474a7bf5cc7f15",
+    "size": 2998
+  },
+  "Avadon 3 Files/Scripts/z7infernal.txt": {
+    "sha256": "426a74e7d9a6b573004081198f8bb00da9476a4a31ac760464eb327d2b10b86a",
+    "size": 2209
+  },
+  "Avadon 3 Files/Scripts/z7mir1.txt": {
+    "sha256": "e210d7164371580c8390f59d56be0976a47222bda02be46aae74103d961c75b1",
+    "size": 1962
+  },
+  "Avadon 3 Files/Scripts/z7monbasec.txt": {
+    "sha256": "5a241e01c7f931f6e75e9ee5c2ea3f61642400527a47abaa5e326e6e0ac21aed",
+    "size": 7847
+  },
+  "Avadon 3 Files/Scripts/z7monbasecdlg.txt": {
+    "sha256": "56883072e6cd935469e49de80603ac6945fb7a0f343e97e0aedbe9516b5975c3",
+    "size": 77829
+  },
+  "Avadon 3 Files/Scripts/z7rb1.txt": {
+    "sha256": "2261fa5a6ed922e11bd3e1ccc8fc8686387a5d6fcf49c473c55e6a7e5135a6a6",
+    "size": 1827
+  },
+  "Avadon 3 Files/Scripts/z7rb2.txt": {
+    "sha256": "262808bf069f485528c2bd818d66f1dd6ad855873c4d0587bd323e351bc3c8a6",
+    "size": 1821
+  },
+  "Avadon 3 Files/Scripts/z8avadon.txt": {
+    "sha256": "d01139dea1c664eeef382074f9af025b6531722474bdc03b6d066614630bbf9f",
+    "size": 9876
+  },
+  "Avadon 3 Files/Scripts/z8avadondlg.txt": {
+    "sha256": "319089821b54a58e31be17dc24aeb47fc3bb58c6506c8e2d90b707c5b714cd38",
+    "size": 104137
+  },
+  "Avadon 3 Files/Scripts/z8construct.txt": {
+    "sha256": "69d8917177117048fe218b0585c28f4796cf2794473e035810422dbed90b8615",
+    "size": 4006
+  },
+  "Avadon 3 Files/Scripts/z8cryst.txt": {
+    "sha256": "1a45986b493d0804cbc53b2b726f2da3b5b18f8719e11d24279c54f445e30bc3",
+    "size": 754
+  },
+  "Avadon 3 Files/Scripts/z8libshade.txt": {
+    "sha256": "e2027a9d8f30e9d65eefa43816448b7dfa8dcef84b46bcded7e3b50a58081964",
+    "size": 3519
+  },
+  "Avadon 3 Files/Scripts/z8visitor.txt": {
+    "sha256": "d01b998cce391dc531ddbcfd6f7bf9d790466e6e628706fa6aaac52af07d64f7",
+    "size": 2225
+  },
+  "Avadon 3 Files/Scripts/z9avdungeon.txt": {
+    "sha256": "ce9f84d6f6f32d487102076200a642ece01ad69838b4a959c2782472e3602dc8",
+    "size": 9611
+  },
+  "Avadon 3 Files/Scripts/z9avdungeondlg.txt": {
+    "sha256": "a6ec4c3e1516af168dbad87edd576756e2353322ec58a03e07e127ad0e7102bb",
+    "size": 81053
+  },
+  "Avadon 3 Files/Scripts/z9hallmobs.txt": {
+    "sha256": "c7a6101a2e7e2e695fa12f50aad2897ba3b7d5eb68328ac4a46af6be985e3a6a",
+    "size": 2520
+  },
+  "Avadon 3 Files/Scripts/z9laria.txt": {
+    "sha256": "9dc6b6863185c2512a072cdf2252d99a6d8764b617766ee5fb9877a9bb717dda",
+    "size": 1463
+  },
+  "Avadon 3 Files/Scripts/z9protus1.txt": {
+    "sha256": "db433ed6d7a6d94f712fb04da22ee4969073d8e663345446190569ca85929b25",
+    "size": 1758
+  },
+  "Avadon 3 Files/Scripts/z9pynkkna.txt": {
+    "sha256": "456d4f6a6f47e127cd2b8daa242f2864af795e899c3804a7804cb3e04a3135ae",
+    "size": 2135
+  },
+  "Avadon 3 Files/Scripts/z9quennel.txt": {
+    "sha256": "1ffd01497f6d18ced80923c796d51e7d768ac67078b0cab6dbefc877c2013302",
+    "size": 3170
+  },
+  "Avadon 3 Files/Scripts/zonetemp.txt": {
+    "sha256": "c3bee65735fc6c1b1858ca7ce2bb8aef920bfcb6060510e429c6ca14b545a877",
+    "size": 1605
+  },
+  "Avadon 3 Files/Scripts/zonetempdlg.txt": {
+    "sha256": "3ba486740f65bfda3fa5459a1831a324a02d582fdfa73e769620999886fc1c52",
+    "size": 7352
+  },
+  "Avadon 3.exe": {
+    "sha256": "c9b1e33cbd14fa21ea876f50355ad7369a9fd74186e08e669210acf0cab7c503",
+    "size": 2729984
+  }
+}

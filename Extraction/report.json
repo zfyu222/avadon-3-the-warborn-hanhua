@@ -1,0 +1,11 @@
+{
+  "records": 20573,
+  "by_kind": {
+    "script": 19194,
+    "scenario": 311,
+    "native": 1068
+  },
+  "script_files": 296,
+  "source_sha256": "8aa12bf78822bb83fabb8562e5ba334e5681c33e9900ab281ad2c083f42813d7",
+  "mapping_sha256": "8c8abeadeef8693304aed323d9f16864fa0cf448596b540447c20ec4bba901db"
+}
